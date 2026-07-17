@@ -140,6 +140,7 @@ Save them into
 attendance.txtThen
 Read the file.
 Display all student names.
+
 file =open("attendance.txt" , "r")
 print(file.read())
 file.close"""
@@ -256,5 +257,7 @@ class Movie:
 m1 =Movie(101 , "goat" , 9 , "hindi")
 file = open("movies.csv" ,"r")
 print(file.read())
-file.close"""
+file.close()"""
         
+
+
