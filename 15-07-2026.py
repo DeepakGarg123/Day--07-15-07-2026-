@@ -131,8 +131,39 @@ decrease_volume()
 show_volume()Volume should never become
 
 Negative
-Greater than 100"""
+Greater than 100
 
+class SmartTV:
+    def __init__(self):
+        self.__volume = 20
+
+    def increase_volume(self):
+        if self.__volume < 100:
+            self.__volume += 1
+        else:
+            print("Volume is already at maximum (100).")
+
+    def decrease_volume(self):
+        if self.__volume > 0:
+            self.__volume -= 1
+        else:
+            print("Volume is already at minimum (0).")
+
+    def show_volume(self):
+        print("Current Volume:", self.__volume)"""
+
+
+# Object Creation
+tv = SmartTV()
+
+tv.show_volume()
+
+tv.increase_volume()
+tv.increase_volume()
+tv.show_volume()
+
+tv.decrease_volume()
+tv.show_volume()
 
 """Exercise 5 – Attendance Register (TXT)
 Take names of 5 students.

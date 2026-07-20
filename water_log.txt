@@ -1,0 +1,7 @@
+Monday - 2.5 L
+Tuesday - 3.0 L
+Wednesday - 2.8 L
+Thursday - 3.2 L
+Friday - 2.6 L
+Saturday - 3.1 L
+Sunday - 2.9 L
