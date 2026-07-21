@@ -334,49 +334,89 @@ print(len(arr[arr>100]))
 print(len(arr[(arr>=50) & (arr<=100)]))
 """
 
+"""Exercise 18 – University Exam Analytics
+Create marks for 50 students in one subject.
+Calculate:
 
-# Exercise 18 – University Exam Analytics
-# Create marks for 50 students in one subject.
-# Calculate:
+Class average
+Median
+Standard deviation
+Students above average
+Students below average
+Top 10 students
+Bottom 10 students
 
-# Class average
-# Median
-# Standard deviation
-# Students above average
-# Students below average
-# Top 10 students
-# Bottom 10 students
-
-
-# Exercise 19 – Fuel Station Sales Report
-# Create a CSV containing:
-
-# Date
-# Petrol Sold
-# Diesel Sold
-# Read the CSV.
-# Using NumPy:
-# Calculate:
-
-# Total petrol sold
-# Total diesel sold
-# Highest sales day
-# Lowest sales day
-# Average daily sales
+import numpy as np
+arr = np.array([78, 65, 89, 92, 55, 71, 84, 69, 95, 88,
+    76, 81, 67, 73, 90, 58, 62, 85, 79, 94,
+    68, 74, 87, 91, 60, 72, 83, 77, 96, 64,
+    70, 82, 59, 75, 86, 93, 66, 80, 97, 61,
+    63, 98, 57, 69, 88, 79, 84, 90, 71, 95])
+print(np.mean(arr))
+print(np.median(arr))
+print(np.std(arr))
+print(arr[arr>np.mean(arr)])
+print(arr[arr<np.mean(arr)])
+bottom_10 = np.sort(arr)[:10]
+print(bottom_10)
+top_10 = np.sort(arr)[-10:]
+print(top_10)"""
 
 
-# Exercise 20 – Space Mission Telemetry Analyzer
-# A satellite records temperature every hour for 24 hours.
-# Create a NumPy array representing these temperatures.
-# Tasks:
+"""Exercise 19 – Fuel Station Sales Report
+Create a CSV containing:
 
-# Find maximum and minimum temperature.
-# Find average temperature.
-# Display temperatures above average.
-# Display temperatures below average.
-# Reshape the data into 6 × 4.
-# Calculate average temperature for each row (axis=1).
-# Calculate average temperature for each column (axis=0).
-# Flatten the array.
-# Round all temperatures to one decimal place.
-# Display unique temperature values.
+Date
+Petrol Sold
+Diesel Sold
+Read the CSV.
+Using NumPy:
+Calculate:
+
+Total petrol sold
+Total diesel sold
+Highest sales day
+Lowest sales day
+Average daily sales
+import pandas as pd
+df  = pd.read_csv("fuels.csv")
+print(df)
+print(df["Petrol Sold"].sum())
+print(df["Diesel Sold"].sum())
+total_sales = df["Petrol Sold"] + df["Diesel Sold"]
+print(total_sales)
+print(total_sales.mean())"""
+
+
+
+"""Exercise 20 – Space Mission Telemetry Analyzer
+A satellite records temperature every hour for 24 hours.
+Create a NumPy array representing these temperatures.
+Tasks:
+
+Find maximum and minimum temperature.
+Find average temperature.
+Display temperatures above average.
+Display temperatures below average.
+Reshape the data into 6 × 4.
+Calculate average temperature for each row (axis=1).
+Calculate average temperature for each column (axis=0).
+Flatten the array.
+Round all temperatures to one decimal place.
+Display unique temperature values.
+
+import numpy as np
+arr  = np.array([0 , -1 , -2 , 8 , 4 , 5 ,
+                 31 , 32 , 33 ,34 ,35 , 
+                 41 , 42 , 43 ,44 ,45 ,
+                 21 , 22 , 23 ,24 ,25 ,
+                 11 , 12 , 13 ,14 ,15 ,])
+print(arr.max())
+print(arr.min())
+print(arr.mean())
+print(arr.reshape(2,13))
+print(arr[arr>arr.mean()])
+print(arr[arr<arr.mean()])
+print(arr.mean(axis=1))
+print(arr.mean(axis=0))
+"""
