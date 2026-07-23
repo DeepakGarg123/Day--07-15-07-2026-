@@ -1,0 +1,101 @@
+Order ID,Product,Category,City,Quantity,Price,Discount
+ORD1001,Vacuum Cleaner,Home & Kitchen,Seattle,1,200.0,20.0
+ORD1002,Tablet,Electronics,Los Angeles,3,450.0,0.0
+ORD1003,Air Fryer,Home & Kitchen,Houston,1,150.0,0.0
+ORD1004,Microwave,Home & Kitchen,Boston,2,180.0,36.0
+ORD1005,Jeans,Clothing,Miami,4,60.0,12.0
+ORD1006,Socks,Clothing,Los Angeles,1,10.0,0.0
+ORD1007,Smartphone,Electronics,Boston,1,800.0,0.0
+ORD1008,Comic Book,Books,San Francisco,3,12.0,1.8
+ORD1009,Vacuum Cleaner,Home & Kitchen,New York,2,200.0,40.0
+ORD1010,Socks,Clothing,Chicago,1,10.0,0.5
+ORD1011,Jacket,Clothing,Miami,2,120.0,0.0
+ORD1012,Smartwatch,Electronics,Houston,1,250.0,25.0
+ORD1013,Biography,Books,San Francisco,1,22.0,2.2
+ORD1014,Smartphone,Electronics,San Francisco,1,800.0,120.0
+ORD1015,Socks,Clothing,Miami,4,10.0,2.0
+ORD1016,Smartphone,Electronics,San Francisco,1,800.0,0.0
+ORD1017,Smartwatch,Electronics,Houston,1,250.0,0.0
+ORD1018,Sneakers,Clothing,Seattle,3,90.0,0.0
+ORD1019,T-Shirt,Clothing,Seattle,3,25.0,3.75
+ORD1020,Vacuum Cleaner,Home & Kitchen,Chicago,3,200.0,60.0
+ORD1021,Textbook,Books,Los Angeles,1,95.0,9.5
+ORD1022,Blender,Home & Kitchen,San Francisco,5,85.0,0.0
+ORD1023,Jacket,Clothing,Houston,3,120.0,36.0
+ORD1024,Textbook,Books,Houston,1,95.0,0.0
+ORD1025,Socks,Clothing,Boston,5,10.0,0.0
+ORD1026,Smartphone,Electronics,Miami,1,800.0,40.0
+ORD1027,Fiction Novel,Books,New York,4,15.0,0.0
+ORD1028,Self-Help Book,Books,Los Angeles,5,18.0,0.0
+ORD1029,Fiction Novel,Books,New York,3,15.0,0.0
+ORD1030,Textbook,Books,Seattle,2,95.0,9.5
+ORD1031,Smartwatch,Electronics,San Francisco,1,250.0,0.0
+ORD1032,Fiction Novel,Books,Chicago,2,15.0,0.0
+ORD1033,Sneakers,Clothing,New York,1,90.0,9.0
+ORD1034,Coffee Maker,Home & Kitchen,Chicago,2,120.0,0.0
+ORD1035,Socks,Clothing,Los Angeles,5,10.0,0.0
+ORD1036,Socks,Clothing,Boston,5,10.0,5.0
+ORD1037,Self-Help Book,Books,Houston,3,18.0,0.0
+ORD1038,Smartwatch,Electronics,Seattle,1,250.0,0.0
+ORD1039,Fiction Novel,Books,Boston,5,15.0,7.5
+ORD1040,Smartphone,Electronics,Boston,1,800.0,40.0
+ORD1041,Biography,Books,Boston,4,22.0,0.0
+ORD1042,Socks,Clothing,Houston,5,10.0,0.0
+ORD1043,Comic Book,Books,Los Angeles,5,12.0,6.0
+ORD1044,Coffee Maker,Home & Kitchen,New York,3,120.0,36.0
+ORD1045,Jeans,Clothing,Chicago,1,60.0,3.0
+ORD1046,Self-Help Book,Books,Boston,1,18.0,0.0
+ORD1047,Laptop,Electronics,Los Angeles,1,1200.0,0.0
+ORD1048,Textbook,Books,Boston,1,95.0,4.75
+ORD1049,Headphones,Electronics,Miami,5,150.0,0.0
+ORD1050,Comic Book,Books,Houston,2,12.0,1.2
+ORD1051,Biography,Books,New York,1,22.0,1.1
+ORD1052,Textbook,Books,Seattle,2,95.0,0.0
+ORD1053,Fiction Novel,Books,San Francisco,1,15.0,0.0
+ORD1054,Smartwatch,Electronics,New York,1,250.0,25.0
+ORD1055,Smartwatch,Electronics,Los Angeles,1,250.0,12.5
+ORD1056,Smartwatch,Electronics,Chicago,1,250.0,0.0
+ORD1057,Laptop,Electronics,Boston,1,1200.0,0.0
+ORD1058,Smartphone,Electronics,San Francisco,1,800.0,0.0
+ORD1059,Socks,Clothing,San Francisco,3,10.0,1.5
+ORD1060,Blender,Home & Kitchen,San Francisco,1,85.0,4.25
+ORD1061,Headphones,Electronics,New York,2,150.0,15.0
+ORD1062,Laptop,Electronics,Seattle,1,1200.0,60.0
+ORD1063,Socks,Clothing,Chicago,3,10.0,1.5
+ORD1064,Microwave,Home & Kitchen,Houston,1,180.0,0.0
+ORD1065,Socks,Clothing,New York,2,10.0,0.0
+ORD1066,Jacket,Clothing,New York,2,120.0,12.0
+ORD1067,Tablet,Electronics,Miami,3,450.0,0.0
+ORD1068,Sneakers,Clothing,New York,4,90.0,0.0
+ORD1069,T-Shirt,Clothing,San Francisco,1,25.0,1.25
+ORD1070,Smartwatch,Electronics,Boston,1,250.0,0.0
+ORD1071,Biography,Books,Miami,4,22.0,4.4
+ORD1072,Smartwatch,Electronics,Houston,1,250.0,12.5
+ORD1073,Socks,Clothing,Seattle,4,10.0,0.0
+ORD1074,Biography,Books,Los Angeles,2,22.0,0.0
+ORD1075,Laptop,Electronics,Miami,1,1200.0,120.0
+ORD1076,Socks,Clothing,New York,2,10.0,0.0
+ORD1077,Jacket,Clothing,Houston,1,120.0,6.0
+ORD1078,Laptop,Electronics,Houston,1,1200.0,60.0
+ORD1079,T-Shirt,Clothing,Los Angeles,5,25.0,0.0
+ORD1080,Socks,Clothing,Seattle,5,10.0,1.5
+ORD1081,Smartwatch,Electronics,Miami,1,250.0,0.0
+ORD1082,Coffee Maker,Home & Kitchen,San Francisco,3,120.0,36.0
+ORD1083,Air Fryer,Home & Kitchen,Boston,3,150.0,0.0
+ORD1084,Smartwatch,Electronics,San Francisco,1,250.0,12.5
+ORD1085,Biography,Books,Los Angeles,2,22.0,0.0
+ORD1086,Coffee Maker,Home & Kitchen,Los Angeles,3,120.0,0.0
+ORD1087,Textbook,Books,Los Angeles,1,95.0,0.0
+ORD1088,Comic Book,Books,San Francisco,4,12.0,2.4
+ORD1089,Socks,Clothing,Houston,3,10.0,0.0
+ORD1090,Biography,Books,Boston,2,22.0,1.1
+ORD1091,Socks,Clothing,Seattle,1,10.0,0.0
+ORD1092,Laptop,Electronics,Seattle,1,1200.0,60.0
+ORD1093,T-Shirt,Clothing,Seattle,4,25.0,0.0
+ORD1094,Textbook,Books,San Francisco,1,95.0,0.0
+ORD1095,Jacket,Clothing,Houston,3,120.0,0.0
+ORD1096,Smartphone,Electronics,Houston,1,800.0,0.0
+ORD1097,Fiction Novel,Books,Chicago,5,15.0,0.0
+ORD1098,Smartwatch,Electronics,San Francisco,1,250.0,0.0
+ORD1099,Smartwatch,Electronics,San Francisco,1,250.0,0.0
+ORD1100,T-Shirt,Clothing,Boston,5,25.0,6.25

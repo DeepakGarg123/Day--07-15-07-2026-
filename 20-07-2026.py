@@ -65,6 +65,7 @@ Exercise 4 – Daily Water Intake
 Create a text file named:
 water_log.txtStore the daily water intake (in liters) for 7 days.
 Read the file and display each day's intake.
+
 with open("water_log.txt" , "r") as file:
     for line in file:
         print(line)
@@ -101,6 +102,7 @@ Cheapest phone
 Average price
 Standard deviation
 Phones costing more than ₹30,000
+
 import numpy as np
 arr = np.array([15000 , 31000 , 45000 , 58000 , 60000 , 
 46000 , 47000 , 48000 , 49000 , 50000 , 51000 , 59000 ])
@@ -118,6 +120,8 @@ Reshape into 10 × 10
 Display every alternate row.
 Display every alternate column.
 Flatten the matrix.
+
+
 import numpy as np
 arr = np.arange(1001,1101)
 print(arr)
@@ -128,13 +132,21 @@ print(arr1[: , ::2])
 
 print(arr1.flatten())"""
 
-# Exercise 8 – Hospital Bed Status
-# Create a Boolean NumPy array representing occupied (True) and vacant (False) beds.
-# Tasks:
+"""
+Exercise 8 – Hospital Bed Status
+Create a Boolean NumPy array representing occupied (True) and vacant (False) beds.
+Tasks:
 
-# Count occupied beds.
-# Count vacant beds.
-# Display only vacant beds using Boolean indexing.
+Count occupied beds.
+Count vacant beds.
+Display only vacant beds using Boolean indexing.
+
+import numpy as np
+beds = np.array([True , False , True , True , False])
+print(np.sum(beds))
+print(np.sum(beds==False))
+print(beds[beds==False])
+"""
 
 
 """Exercise 9 – Online Course Ratings
@@ -378,6 +390,8 @@ Total diesel sold
 Highest sales day
 Lowest sales day
 Average daily sales
+
+
 import pandas as pd
 df  = pd.read_csv("fuels.csv")
 print(df)

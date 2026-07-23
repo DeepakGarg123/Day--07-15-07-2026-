@@ -1,0 +1,8 @@
+Order ID,Food Item,Quantity,Price,Payment Mode
+201,Burger,2,150,UPI
+202,Pizza,1,450,Card
+203,Pasta,2,250,UPI
+204,Burger,1,150,Cash
+205,Pizza,2,450,UPI
+206,Fries,3,80,Cash
+207,Sandwich,1,120,Card

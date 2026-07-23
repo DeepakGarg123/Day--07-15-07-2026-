@@ -1,4 +1,53 @@
-101,Rahul,HR,40000
-102,Deepak,AI,60000
-103,Mohit,Python,50000
-104,Aman,Data Analyst,55000
+Employee ID,Name,Department,City,Experience,Salary,Performance Rating
+EMP101,Rohan Singh,HR,Mumbai,12.0,93049.0,3
+EMP102,Vijay Das,Finance,Delhi,2.0,73423.0,4
+EMP103,Rohan Reddy,Sales,Delhi,1.0,53548.0,3
+EMP104,Alok Mehta,Sales,Hyderabad,7.0,76108.0,3
+EMP105,Rajesh Das,HR,Pune,7.0,78158.0,3
+EMP106,Priya Das,Marketing,Mumbai,14.0,,2
+EMP107,Rahul Gupta,Marketing,Mumbai,8.0,85170.0,4
+EMP108,Neha Das,Finance,Bangalore,5.0,89874.0,3
+EMP109,Pooja Gupta,Engineering,Delhi,3.0,79255.0,1
+EMP110,Neha Joshi,Finance,Bangalore,13.0,113421.0,4
+EMP111,Rahul Patel,Marketing,Hyderabad,3.0,66014.0,3
+EMP112,Deepak Kumar,Sales,Delhi,4.0,62103.0,5
+EMP113,Sanjay Patel,Sales,Pune,,52123.0,3
+EMP114,Vikram Verma,Engineering,Delhi,4.0,89679.0,3
+EMP115,Ritu Joshi,Marketing,Pune,15.0,111818.0,3
+EMP116,Alok Singh,Engineering,Bangalore,1.0,71317.0,3
+EMP117,Deepak Mehta,Finance,Pune,2.0,75062.0,3
+EMP118,Swati Mehta,HR,Pune,14.0,105151.0,4
+EMP119,Sneha Joshi,Sales,Delhi,12.0,,3
+EMP120,Ananya Sharma,Engineering,Pune,5.0,92040.0,3
+EMP121,Priya Reddy,Finance,Mumbai,1.0,71556.0,3
+EMP122,Deepak Sharma,Marketing,Hyderabad,9.0,94271.0,3
+EMP123,Amit Reddy,Engineering,Delhi,5.0,90310.0,4
+EMP124,Kriti Reddy,Engineering,Delhi,11.0,117537.0,3
+EMP125,Alok Kumar,HR,Hyderabad,7.0,76835.0,3
+EMP126,Vijay Kumar,Finance,Bangalore,14.0,120433.0,2
+EMP127,Sanjay Kumar,Sales,Delhi,10.0,88339.0,2
+EMP128,Sneha Gupta,HR,Bangalore,4.0,66060.0,4
+EMP129,Meera Das,Sales,Mumbai,2.0,53457.0,5
+EMP130,Neha Gupta,Engineering,Hyderabad,15.0,130699.0,3
+EMP131,Kriti Singh,Finance,Bangalore,15.0,126944.0,2
+EMP132,Deepak Joshi,Marketing,Mumbai,2.0,65363.0,3
+EMP133,Rohan Verma,Engineering,Hyderabad,13.0,117976.0,3
+EMP134,Arjun Verma,Sales,Hyderabad,8.0,81655.0,5
+EMP135,Meera Patel,HR,Pune,1.0,50388.0,3
+EMP136,Alok Verma,Finance,Bangalore,,88673.0,4
+EMP137,Sneha Joshi,Engineering,Mumbai,15.0,131015.0,4
+EMP138,Amit Verma,Engineering,Delhi,8.0,100140.0,3
+EMP139,Vikram Singh,Engineering,Mumbai,5.0,90204.0,3
+EMP140,Ritu Sharma,Sales,Delhi,8.0,77685.0,4
+EMP141,Vikram Joshi,Engineering,Delhi,9.0,102283.0,3
+EMP142,Arjun Joshi,HR,Pune,7.0,73295.0,3
+EMP143,Rohan Das,Marketing,Bangalore,3.0,70701.0,2
+EMP144,Sanjay Joshi,Sales,Hyderabad,7.0,76708.0,4
+EMP145,Kriti Patel,Sales,Pune,11.0,91979.0,4
+EMP146,Pooja Verma,Finance,Pune,13.0,113645.0,4
+EMP147,Deepak Patel,Sales,Delhi,4.0,63737.0,4
+EMP148,Kriti Mehta,Engineering,Hyderabad,15.0,128436.0,4
+EMP149,Rahul Joshi,Sales,Delhi,11.0,90799.0,3
+EMP150,Ananya Patel,Marketing,Hyderabad,3.0,68478.0,3
+EMP111,Rahul Patel,Marketing,Hyderabad,3.0,66014.0,3
+EMP126,Vijay Kumar,Finance,Bangalore,14.0,120433.0,2
