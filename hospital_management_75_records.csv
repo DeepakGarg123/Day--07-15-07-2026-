@@ -1,0 +1,76 @@
+Patient ID,Department,Doctor,Age,Bill Amount,City
+P001,Cardiology,Dr. Sharma,36.0,37098.0,Chandigarh
+P002,Neurology,Dr. Mehta,70.0,16395.0,Ludhiana
+P003,Pediatrics,Dr. Bansal,4.0,17280.0,Chandigarh
+P004,Neurology,Dr. Mehta,72.0,31062.0,Ludhiana
+P005,Pediatrics,Dr. Bansal,58.0,82236.0,Mohali
+P006,Cardiology,Dr. Sharma,55.0,49597.0,Mohali
+P007,Neurology,Dr. Mehta,44.0,18396.0,Delhi
+P008,Pediatrics,Dr. Bansal,46.0,50082.0,Ludhiana
+P009,Orthopedics,Dr. Singh,59.0,75284.0,Delhi
+P010,Pediatrics,Dr. Bansal,71.0,43427.0,Ludhiana
+P011,Orthopedics,Dr. Singh,9.0,11006.0,Chandigarh
+P012,Orthopedics,Dr. Singh,30.0,18238.0,Patiala
+P013,Orthopedics,Dr. Kaur,82.0,52819.0,Chandigarh
+P014,Orthopedics,Dr. Kaur,27.0,92841.0,Mohali
+P015,Cardiology,Dr. Sharma,69.0,37087.0,Chandigarh
+P016,Pediatrics,Dr. Arora,35.0,,Ludhiana
+P017,Neurology,Dr. Gupta,8.0,35021.0,Delhi
+P018,Orthopedics,Dr. Kaur,35.0,13675.0,Chandigarh
+P019,General Medicine,Dr. Kapoor,28.0,90909.0,Patiala
+P020,Pediatrics,Dr. Arora,19.0,39718.0,Chandigarh
+P006,Cardiology,Dr. Sharma,55.0,49597.0,Mohali
+P022,Pediatrics,Dr. Arora,29.0,23131.0,Ludhiana
+P023,Pediatrics,Dr. Bansal,7.0,19371.0,Chandigarh
+P024,Neurology,Dr. Gupta,77.0,13326.0,Patiala
+P025,Pediatrics,Dr. Arora,68.0,37953.0,Ludhiana
+P026,Cardiology,Dr. Sharma,69.0,39973.0,Mohali
+P027,Cardiology,Dr. Verma,56.0,25730.0,Patiala
+P028,Cardiology,Dr. Verma,65.0,28416.0,Ludhiana
+P029,Cardiology,Dr. Verma,82.0,71540.0,Ludhiana
+P030,Neurology,Dr. Mehta,48.0,26174.0,Ludhiana
+P031,General Medicine,Dr. Jain,77.0,47487.0,Patiala
+P032,Cardiology,Dr. Sharma,47.0,45306.0,Chandigarh
+P033,Cardiology,Dr. Sharma,73.0,15322.0,Delhi
+P034,Pediatrics,Dr. Bansal,69.0,21483.0,Chandigarh
+P035,Pediatrics,Dr. Bansal,34.0,74163.0,Ludhiana
+P036,Pediatrics,Dr. Bansal,,31365.0,Mohali
+P037,Pediatrics,Dr. Arora,57.0,72839.0,Patiala
+P038,Cardiology,Dr. Sharma,29.0,13392.0,Mohali
+P039,Cardiology,Dr. Sharma,76.0,33864.0,Delhi
+P040,Cardiology,Dr. Sharma,30.0,13834.0,Delhi
+P041,Orthopedics,Dr. Singh,66.0,36195.0,Mohali
+P042,Pediatrics,Dr. Bansal,70.0,22342.0,Ludhiana
+P043,General Medicine,Dr. Kapoor,32.0,66993.0,Patiala
+P044,Neurology,Dr. Mehta,13.0,91374.0,Patiala
+P045,Orthopedics,Dr. Kaur,53.0,66213.0,Delhi
+P046,Cardiology,Dr. Sharma,52.0,49473.0,Delhi
+P047,Neurology,Dr. Mehta,25.0,75292.0,Patiala
+P048,Neurology,Dr. Gupta,24.0,41509.0,Patiala
+P049,Neurology,Dr. Mehta,57.0,77132.0,Delhi
+P050,Cardiology,Dr. Sharma,12.0,35982.0,Chandigarh
+P011,Orthopedics,Dr. Singh,9.0,11006.0,Chandigarh
+P052,Cardiology,Dr. Sharma,49.0,5282.0,Patiala
+P053,Orthopedics,Dr. Kaur,37.0,60444.0,Ludhiana
+P054,Pediatrics,Dr. Bansal,25.0,43890.0,Chandigarh
+P055,Cardiology,Dr. Sharma,41.0,12492.0,Delhi
+P056,General Medicine,Dr. Kapoor,65.0,74615.0,Chandigarh
+P057,Cardiology,Dr. Sharma,24.0,13981.0,Ludhiana
+P058,Cardiology,Dr. Sharma,52.0,20713.0,Ludhiana
+P059,Neurology,Dr. Mehta,80.0,15745.0,Patiala
+P060,General Medicine,Dr. Kapoor,34.0,31772.0,Mohali
+P061,Neurology,Dr. Gupta,51.0,22154.0,
+P062,Pediatrics,Dr. Arora,10.0,6220.0,Patiala
+P063,General Medicine,Dr. Jain,10.0,75468.0,Chandigarh
+P064,General Medicine,Dr. Kapoor,17.0,50745.0,Delhi
+P065,Neurology,Dr. Gupta,37.0,25676.0,Patiala
+P066,General Medicine,Dr. Kapoor,79.0,90717.0,Ludhiana
+P067,Cardiology,Dr. Verma,85.0,18577.0,Chandigarh
+P068,Orthopedics,Dr. Singh,14.0,77512.0,Chandigarh
+P069,Orthopedics,Dr. Kaur,78.0,32607.0,Mohali
+P070,Neurology,Dr. Gupta,65.0,69032.0,Mohali
+P071,Cardiology,Dr. Sharma,82.0,60518.0,Mohali
+P072,Cardiology,Dr. Sharma,43.0,22146.0,Mohali
+P073,Neurology,Dr. Gupta,71.0,61057.0,Ludhiana
+P074,Cardiology,Dr. Sharma,10.0,24536.0,Ludhiana
+P075,Cardiology,Dr. Verma,75.0,77420.0,Chandigarh

@@ -1,0 +1,101 @@
+Order ID,Product,Category,City,Quantity,Price,Discount,Final Amount,Payment Mode
+O001,Product_9,Clothing,Mumbai,1,404.0,379,25,Card
+O002,Product_19,Books,Delhi,1,4667.0,44,4623,UPI
+O003,Product_17,Sports,Delhi,1,1991.0,119,1872,Card
+O004,Product_15,Sports,Bengaluru,5,3636.0,112,18068,UPI
+O005,Product_9,Clothing,Mumbai,2,3662.0,174,7150,Cash
+O006,Product_4,Home,Bengaluru,1,959.0,194,765,Cash
+O007,Product_4,Books,Delhi,1,3963.0,274,3689,Cash
+O008,Product_7,Electronics,Delhi,5,3162.0,295,15515,Card
+O009,Product_8,Electronics,Chandigarh,3,853.0,437,2122,Cash
+O010,Product_12,Home,Mumbai,4,3188.0,83,12669,Cash
+O011,Product_24,Clothing,Mumbai,1,1601.0,273,1328,Net Banking
+O012,Product_21,Sports,Mumbai,4,2411.0,473,9171,Cash
+O013,Product_2,Home,Chandigarh,1,2076.0,420,1656,Cash
+O014,Product_19,Home,Mumbai,1,1928.0,467,1461,Net Banking
+O015,Product_9,Clothing,Mumbai,4,3958.0,73,15759,Cash
+O016,Product_19,Books,Bengaluru,5,,459,18086,Card
+O017,Product_3,Electronics,Delhi,2,4374.0,252,8496,Card
+O018,Product_3,Books,Chandigarh,2,3658.0,305,7011,Net Banking
+O019,Product_18,Electronics,Jaipur,5,2259.0,497,10798,UPI
+O020,Product_21,Home,Delhi,5,2385.0,393,11532,Cash
+O021,Product_1,Home,Mohali,4,1495.0,232,5748,Card
+O022,Product_21,Home,Jaipur,5,1071.0,445,4910,Card
+O023,Product_6,Sports,Mohali,2,3263.0,390,6136,UPI
+O024,Product_1,Electronics,Bengaluru,5,2855.0,250,14025,Cash
+O025,Product_19,Electronics,Delhi,2,674.0,123,1225,Net Banking
+O026,Product_5,Clothing,Jaipur,1,4563.0,392,4171,Net Banking
+O027,Product_17,Sports,Chandigarh,5,1552.0,135,7625,Card
+O028,Product_10,Books,Jaipur,5,1847.0,365,8870,Cash
+O029,Product_4,Clothing,Mumbai,4,4439.0,231,17525,UPI
+O030,Product_18,Clothing,Mohali,3,372.0,301,815,Card
+O006,Product_4,Home,Bengaluru,1,959.0,194,765,Cash
+O032,Product_17,Clothing,Bengaluru,1,2906.0,36,2870,Net Banking
+O033,Product_24,Sports,Mohali,2,4617.0,67,9167,Net Banking
+O034,Product_14,Clothing,Delhi,2,4074.0,413,7735,UPI
+O035,Product_14,Books,Jaipur,4,3102.0,216,12192,UPI
+O036,Product_24,Home,Delhi,1,696.0,206,490,Card
+O037,Product_15,Clothing,Chandigarh,2,1758.0,274,3242,Card
+O038,Product_3,Books,Mohali,3,3989.0,127,11840,UPI
+O039,Product_1,Electronics,Mumbai,1,4628.0,428,4200,Card
+O040,Product_7,Books,Delhi,4,4178.0,246,16466,Card
+O041,Product_9,Books,Bengaluru,4,217.0,199,669,Net Banking
+O042,Product_7,Home,Mumbai,5,4186.0,79,20851,UPI
+O043,Product_24,Home,Delhi,5,4641.0,31,23174,UPI
+O044,Product_17,Clothing,Delhi,5,4105.0,257,20268,UPI
+O045,Product_3,Clothing,Chandigarh,2,761.0,304,1218,UPI
+O046,Product_20,Electronics,,5,2216.0,296,10784,UPI
+O047,Product_17,Home,Bengaluru,4,4981.0,289,19635,Card
+O048,Product_13,Clothing,Jaipur,3,2155.0,135,6330,Cash
+O049,Product_25,Electronics,Delhi,4,2790.0,475,10685,Net Banking
+O050,Product_3,Sports,Mumbai,5,4812.0,51,24009,Cash
+O051,Product_3,Clothing,Bengaluru,2,3059.0,451,5667,Cash
+O052,Product_18,Home,Mohali,2,3789.0,426,7152,UPI
+O053,Product_22,Electronics,Mumbai,5,2652.0,477,12783,Cash
+O054,Product_18,Clothing,Bengaluru,1,1076.0,380,696,Cash
+O055,Product_11,Clothing,Jaipur,5,1925.0,367,9258,Cash
+O056,Product_2,Electronics,Jaipur,5,4202.0,128,20882,Net Banking
+O057,Product_11,Clothing,Jaipur,3,561.0,1,1682,Cash
+O058,Product_23,Books,Mohali,2,3819.0,282,7356,UPI
+O059,Product_23,Clothing,Mohali,1,816.0,483,333,UPI
+O060,Product_5,Books,Mumbai,3,4971.0,282,14631,UPI
+O061,Product_2,Home,Mumbai,3,3187.0,460,9101,Card
+O062,Product_18,Books,Mohali,1,3097.0,399,2698,Card
+O063,Product_6,Books,Delhi,2,1531.0,499,2563,Card
+O064,Product_22,Clothing,Bengaluru,3,3572.0,410,10306,Card
+O065,Product_2,Books,Mumbai,1,3333.0,446,2887,Card
+O066,Product_8,Clothing,Delhi,4,3064.0,156,12100,Card
+O067,Product_3,Home,Bengaluru,4,2889.0,142,11414,Net Banking
+O068,Product_1,Electronics,Bengaluru,5,2912.0,480,14080,Card
+O069,Product_4,Sports,Chandigarh,5,2374.0,19,11851,Cash
+O070,Product_17,Electronics,Chandigarh,3,3774.0,310,11012,Card
+O011,Product_24,Clothing,Mumbai,1,1601.0,273,1328,Net Banking
+O072,Product_22,Home,Mohali,3,3733.0,35,11164,Cash
+O073,Product_10,Books,Bengaluru,1,2660.0,259,2401,Net Banking
+O074,Product_7,Books,Jaipur,3,4741.0,65,14158,Net Banking
+O075,Product_13,Sports,Delhi,2,4862.0,154,9570,Cash
+O076,Product_19,Sports,Jaipur,3,1921.0,220,5543,Cash
+O077,Product_22,Clothing,Mohali,4,3819.0,226,15050,Net Banking
+O078,Product_17,Sports,Bengaluru,2,894.0,145,1643,UPI
+O079,Product_7,Clothing,Delhi,2,2742.0,115,5369,UPI
+O080,Product_25,Electronics,Chandigarh,2,4092.0,312,7872,Net Banking
+O081,Product_23,Books,Chandigarh,5,1792.0,367,8593,
+O082,Product_23,Electronics,Delhi,2,1408.0,335,2481,Net Banking
+O083,Product_23,Sports,Chandigarh,2,1640.0,411,2869,UPI
+O084,Product_4,Books,Mumbai,5,2241.0,469,10736,Net Banking
+O085,Product_11,Books,Mohali,5,4778.0,304,23586,Net Banking
+O086,Product_6,Books,Chandigarh,5,3852.0,459,18801,Cash
+O087,Product_25,Sports,Chandigarh,2,2471.0,392,4550,Card
+O088,Product_23,Home,Mumbai,3,3803.0,39,11370,Cash
+O089,Product_18,Electronics,Mumbai,3,2819.0,457,8000,Card
+O090,Product_5,Clothing,Delhi,2,3337.0,355,6319,Net Banking
+O091,Product_15,Books,Delhi,4,2910.0,277,11363,Card
+O092,Product_25,Sports,Jaipur,4,3390.0,463,13097,UPI
+O093,Product_1,Home,Bengaluru,5,3316.0,244,16336,Net Banking
+O094,Product_24,Sports,Mohali,4,4609.0,382,18054,Card
+O095,Product_14,Books,Delhi,4,1997.0,139,7849,Net Banking
+O096,Product_6,Books,Mumbai,3,3512.0,370,10166,UPI
+O097,Product_1,Electronics,Jaipur,4,4823.0,339,18953,Net Banking
+O098,Product_2,Home,Chandigarh,2,3982.0,93,7871,Cash
+O099,Product_11,Books,Bengaluru,2,3924.0,167,7681,Net Banking
+O100,Product_1,Sports,Delhi,3,870.0,240,2370,Cash
