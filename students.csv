@@ -1,5 +1,6 @@
-ID,Name,Marks,City
-101,Deepak,90,Mohali
-102,Rahul,85,Delhi
-103,Aman,80,Patiala
-104,Mohit,95,Chandigarh
+RollNo,Name,Course,Marks
+101,Deepak,Python,90
+102,Rahul,Gen AI,85
+103,Aman,SQL,95
+104,Mohit,Python,78
+105,Karan,Gen AI,88

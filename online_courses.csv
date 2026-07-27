@@ -1,0 +1,201 @@
+Student_ID,Course,Hours_Studied,Quiz_Score,Completion_Percentage,Device,Country
+ST001,SQL,53.1,30.0,30.9,Mobile,UK
+ST002,Machine Learning,26.1,30.0,24.5,Laptop,Germany
+ST003,Data Science,13.0,30.0,20.0,Laptop,India
+ST004,Data Science,119.7,79.0,100.0,Mobile,India
+ST005,Gen AI,67.1,46.1,53.1,Tablet,India
+ST006,SQL,90.2,41.8,76.4,Laptop,USA
+ST007,Machine Learning,88.8,50.3,55.6,Mobile,UK
+ST008,SQL,13.6,30.0,20.0,Mobile,Australia
+ST009,Machine Learning,118.7,58.3,91.8,Mobile,UK
+ST010,SQL,44.2,30.0,31.4,Laptop,UK
+ST011,Machine Learning,49.4,44.5,31.1,Laptop,India
+ST012,SQL,87.6,67.3,65.0,Laptop,Germany
+ST013,Machine Learning,91.0,46.3,71.1,Mobile,Germany
+ST014,Python,25.8,30.0,20.0,Tablet,Canada
+ST015,Machine Learning,111.9,59.5,74.6,Tablet,USA
+ST016,Data Science,48.1,34.4,38.8,Mobile,USA
+ST017,Data Science,110.5,56.2,90.7,Laptop,Canada
+ST018,Data Science,63.2,42.9,58.6,Laptop,Germany
+ST019,Python,55.5,30.5,46.6,Laptop,Canada
+ST020,Python,103.1,66.6,63.5,Laptop,UK
+ST021,Python,105.1,,68.5,Laptop,Australia
+ST022,Data Science,10.7,30.0,20.0,Tablet,UK
+ST023,Python,114.6,80.7,82.7,Laptop,Canada
+ST024,Machine Learning,93.9,55.9,82.2,Laptop,USA
+ST025,Machine Learning,72.7,32.8,59.8,Laptop,USA
+ST026,Python,35.4,30.0,20.0,Tablet,UK
+ST027,Gen AI,83.6,57.7,71.2,Laptop,USA
+ST028,Python,50.7,30.0,39.8,Mobile,India
+ST029,Python,80.4,37.0,60.5,Laptop,UK
+ST030,SQL,76.4,36.3,66.8,Laptop,Australia
+ST006,SQL,90.2,41.8,76.4,Laptop,USA
+ST032,Python,49.6,40.7,31.6,Mobile,Australia
+ST033,SQL,34.1,30.0,20.0,Laptop,UK
+ST034,SQL,40.6,36.4,21.3,Laptop,Germany
+ST035,Data Science,114.0,56.4,89.2,Laptop,Australia
+ST036,Gen AI,116.2,64.0,93.9,Laptop,Germany
+ST037,SQL,12.3,30.0,20.0,Laptop,Canada
+ST038,Data Science,17.4,30.0,20.0,Mobile,UK
+ST039,Machine Learning,76.5,31.5,60.5,Laptop,Germany
+ST040,Machine Learning,49.8,30.0,26.6,Laptop,UK
+ST041,Python,33.4,30.0,31.2,Mobile,UK
+ST042,SQL,50.9,30.0,27.6,Tablet,Australia
+ST043,Python,9.3,30.0,20.0,Mobile,USA
+ST044,Data Science,77.1,54.0,61.7,Mobile,Australia
+ST045,Gen AI,33.2,32.4,20.0,Mobile,Germany
+ST046,Python,23.6,30.0,25.1,Mobile,India
+ST047,Machine Learning,25.2,30.0,20.0,Laptop,Australia
+ST048,Data Science,118.0,85.5,79.4,Laptop,Australia
+ST049,Gen AI,47.8,31.1,23.9,Laptop,India
+ST050,Gen AI,64.2,51.9,60.4,Mobile,Germany
+ST051,SQL,32.4,30.0,27.4,Laptop,UK
+ST052,Data Science,51.2,30.0,40.9,Mobile,Australia
+ST053,Data Science,76.5,33.9,70.5,Laptop,Canada
+ST054,Gen AI,7.2,30.0,20.0,Mobile,Australia
+ST055,Data Science,32.6,30.0,22.4,Laptop,Canada
+ST056,SQL,57.2,46.2,36.9,Laptop,UK
+ST057,Machine Learning,101.7,55.3,73.9,Mobile,USA
+ST058,SQL,71.1,52.4,54.4,Laptop,India
+ST059,Machine Learning,13.4,30.0,20.0,Tablet,Australia
+ST060,SQL,22.5,30.0,20.0,Laptop,UK
+ST061,Data Science,83.1,55.1,51.1,Laptop,Canada
+ST062,Gen AI,78.6,32.4,67.1,Mobile,USA
+ST063,Machine Learning,16.3,30.0,20.0,Laptop,USA
+ST064,Python,72.3,36.6,61.5,Laptop,India
+ST065,Python,31.8,30.0,20.0,Laptop,USA
+ST066,Machine Learning,53.7,30.0,29.5,Laptop,Australia
+ST067,Gen AI,74.8,48.9,59.1,Laptop,Canada
+ST068,Data Science,60.0,46.9,41.2,Laptop,Canada
+ST069,Python,30.0,30.0,31.1,Laptop,India
+ST070,Gen AI,49.9,43.2,48.0,Mobile,India
+ST071,Gen AI,24.9,30.0,20.0,Laptop,Australia
+ST072,SQL,26.0,30.0,20.0,Laptop,USA
+ST073,Machine Learning,68.8,49.5,57.2,Mobile,Canada
+ST074,Python,32.6,30.0,20.0,Mobile,Canada
+ST075,Machine Learning,20.1,30.0,20.0,Mobile,India
+ST076,SQL,,45.6,68.2,Laptop,Germany
+ST077,Gen AI,19.1,30.0,20.0,Mobile,UK
+ST078,SQL,79.8,40.5,56.7,Laptop,UK
+ST079,Data Science,35.5,30.0,22.2,Laptop,Canada
+ST080,Machine Learning,55.6,30.0,28.7,Laptop,USA
+ST081,Data Science,21.4,30.0,20.4,Mobile,Canada
+ST082,Machine Learning,100.7,59.2,75.1,Mobile,Germany
+ST083,Data Science,82.4,35.3,73.4,Laptop,Canada
+ST084,Data Science,45.7,30.0,30.0,Mobile,India
+ST085,Gen AI,91.4,51.1,60.6,Mobile,India
+ST086,SQL,73.5,39.1,64.3,Mobile,USA
+ST087,SQL,21.8,30.0,20.0,Mobile,Canada
+ST088,SQL,64.1,30.0,54.4,Laptop,India
+ST089,Gen AI,111.0,67.3,69.1,Mobile,Canada
+ST090,Python,35.2,30.9,20.0,Mobile,Germany
+ST091,Machine Learning,7.4,30.0,20.0,Laptop,Germany
+ST092,Machine Learning,115.7,65.6,91.6,Mobile,Canada
+ST093,SQL,44.8,34.5,34.9,Laptop,Germany
+ST094,Machine Learning,30.7,30.0,20.0,Mobile,UK
+ST095,SQL,94.1,68.5,77.8,Laptop,USA
+ST096,SQL,6.5,30.0,20.0,Laptop,India
+ST097,Data Science,26.5,30.0,20.0,Mobile,USA
+ST098,Machine Learning,17.9,30.0,20.0,Laptop,India
+ST099,SQL,85.6,42.6,49.0,Mobile,USA
+ST100,Machine Learning,70.3,34.5,49.2,Mobile,Germany
+ST101,Python,51.0,44.4,45.0,Mobile,UK
+ST102,Python,71.4,30.0,49.2,Mobile,UK
+ST103,SQL,9.4,30.0,20.0,Laptop,UK
+ST104,Gen AI,66.0,30.0,43.0,Mobile,Australia
+ST105,Gen AI,49.8,38.9,21.4,Laptop,India
+ST106,Data Science,42.4,34.2,36.5,Laptop,Canada
+ST107,Data Science,17.9,30.0,20.0,Laptop,Canada
+ST108,Data Science,64.0,30.0,60.4,Laptop,Canada
+ST109,SQL,10.4,30.0,20.0,Laptop,India
+ST110,Data Science,62.8,30.0,36.8,Laptop,Canada
+ST111,Python,81.7,40.9,64.9,,Australia
+ST112,Gen AI,65.8,35.7,41.0,Mobile,USA
+ST113,Gen AI,60.2,31.0,54.9,Mobile,USA
+ST114,Gen AI,83.1,58.0,66.8,Tablet,India
+ST115,SQL,87.7,46.7,67.0,Mobile,USA
+ST116,Data Science,8.2,30.0,20.0,Laptop,Germany
+ST117,SQL,95.8,68.6,83.4,Mobile,USA
+ST118,Data Science,79.9,52.9,50.3,Laptop,UK
+ST119,Data Science,81.4,42.7,49.0,Laptop,USA
+ST120,Python,91.8,45.1,56.8,Laptop,India
+ST121,Gen AI,17.8,30.0,20.0,Laptop,Australia
+ST122,Gen AI,52.5,30.0,43.9,Laptop,Canada
+ST123,Python,85.7,61.5,77.9,Laptop,Australia
+ST124,Gen AI,106.4,56.8,75.6,Laptop,Australia
+ST125,Gen AI,28.6,30.0,20.0,Mobile,USA
+ST126,Python,116.4,56.1,96.8,Mobile,Germany
+ST127,Python,9.9,30.0,20.0,Mobile,USA
+ST128,SQL,102.4,65.1,67.0,Mobile,India
+ST129,SQL,111.8,61.3,77.0,Laptop,UK
+ST130,Data Science,96.0,68.2,79.2,Mobile,USA
+ST131,Gen AI,41.9,30.0,26.5,Mobile,India
+ST132,Machine Learning,115.9,82.1,86.5,Mobile,USA
+ST133,SQL,87.7,50.8,51.7,Laptop,UK
+ST134,Python,108.7,66.9,94.1,Tablet,Germany
+ST135,Python,75.9,30.8,63.7,Tablet,Germany
+ST136,SQL,88.0,37.9,77.0,Mobile,UK
+ST137,Python,71.0,38.5,55.0,Laptop,UK
+ST138,Data Science,91.2,45.3,61.9,Mobile,USA
+ST139,Gen AI,12.9,30.0,20.0,Laptop,Canada
+ST140,Machine Learning,35.1,30.0,24.2,Laptop,Germany
+ST141,Machine Learning,10.9,30.0,20.0,Laptop,Canada
+ST142,Data Science,38.5,33.2,30.5,Laptop,USA
+ST143,Machine Learning,41.3,30.0,35.4,Laptop,USA
+ST144,Gen AI,28.4,30.0,20.0,Tablet,USA
+ST145,Python,113.5,58.7,95.8,Laptop,Germany
+ST146,Machine Learning,36.1,30.0,20.0,Mobile,Australia
+ST147,Python,102.5,63.4,63.9,Tablet,USA
+ST148,Python,63.7,39.8,60.1,Mobile,USA
+ST149,Data Science,85.3,66.1,73.7,Laptop,Germany
+ST150,SQL,54.6,30.0,32.4,Laptop,USA
+ST011,Machine Learning,49.4,44.5,31.1,Laptop,India
+ST152,SQL,11.9,30.0,20.0,Laptop,UK
+ST153,Machine Learning,11.6,30.0,20.0,Laptop,USA
+ST154,Python,43.5,35.0,21.6,Mobile,USA
+ST155,Gen AI,73.4,50.7,58.9,Laptop,India
+ST156,Data Science,100.0,62.1,65.5,Tablet,UK
+ST157,Gen AI,58.3,30.0,31.6,Laptop,Germany
+ST158,Data Science,79.0,45.8,55.3,Tablet,Canada
+ST159,Python,82.3,40.5,61.3,Laptop,India
+ST160,Gen AI,9.6,30.0,20.0,Laptop,UK
+ST161,Data Science,36.4,31.2,36.6,Laptop,Germany
+ST162,Machine Learning,33.8,30.0,22.0,Laptop,India
+ST163,Data Science,50.8,35.2,45.1,Mobile,Germany
+ST164,Python,52.3,35.7,23.5,Mobile,Australia
+ST165,Machine Learning,35.5,30.0,20.0,Mobile,UK
+ST166,SQL,94.8,69.6,79.2,Laptop,Canada
+ST167,SQL,41.0,34.8,21.3,Mobile,Australia
+ST168,Data Science,8.0,30.0,20.0,Laptop,India
+ST169,Data Science,113.9,67.4,94.8,Tablet,Canada
+ST170,Data Science,31.2,30.0,28.4,Laptop,Germany
+ST171,Python,28.1,30.0,20.0,Tablet,Germany
+ST172,Data Science,61.4,48.9,51.7,Laptop,Germany
+ST173,Data Science,113.9,74.8,99.2,Laptop,USA
+ST174,SQL,36.8,30.0,20.0,Mobile,India
+ST175,Gen AI,73.9,47.3,61.2,Mobile,UK
+ST176,Gen AI,101.5,70.7,88.7,Mobile,India
+ST177,SQL,110.6,75.3,81.2,Laptop,UK
+ST178,Gen AI,7.9,30.0,20.0,Tablet,Germany
+ST179,Machine Learning,49.5,43.1,33.5,Mobile,India
+ST180,Machine Learning,103.0,71.2,83.0,Laptop,Canada
+ST181,Gen AI,26.2,30.0,29.7,Mobile,Germany
+ST182,Python,100.2,60.5,65.0,Mobile,USA
+ST183,Python,117.5,63.3,94.8,Mobile,Germany
+ST184,Gen AI,48.8,30.0,46.4,Laptop,Australia
+ST185,Gen AI,33.0,30.0,20.0,Laptop,UK
+ST186,Data Science,114.0,58.3,87.1,Laptop,Canada
+ST187,Python,21.5,30.0,20.0,Mobile,Australia
+ST188,Machine Learning,30.7,31.1,23.6,Laptop,Canada
+ST189,Data Science,41.1,35.6,20.0,Laptop,UK
+ST190,Gen AI,39.4,30.0,20.0,Mobile,USA
+ST191,Gen AI,105.3,49.2,87.8,Laptop,Canada
+ST192,Machine Learning,71.4,40.1,56.5,Laptop,USA
+ST193,Machine Learning,6.0,30.0,20.0,Mobile,USA
+ST194,Data Science,82.4,48.0,61.7,Mobile,Germany
+ST195,Data Science,55.1,37.4,28.5,Mobile,Germany
+ST196,Machine Learning,9.9,30.0,20.0,Tablet,UK
+ST197,Gen AI,35.5,34.4,20.0,Laptop,USA
+ST198,Gen AI,59.1,40.7,29.3,Laptop,Australia
+ST199,Gen AI,56.0,48.1,50.6,Laptop,UK
+ST200,SQL,98.4,59.4,88.0,Mobile,Australia

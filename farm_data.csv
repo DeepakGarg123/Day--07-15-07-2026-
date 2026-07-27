@@ -1,0 +1,151 @@
+Farm_ID,Crop,State,Rainfall,Fertilizer_Used,Yield,Temperature
+F001,Cotton,Uttar Pradesh,1056.9,145.0,30.29,28.8
+F002,Rice,Haryana,1003.9,96.1,19.86,32.7
+F003,Cotton,Maharashtra,341.8,106.2,18.38,39.4
+F004,Sugarcane,Karnataka,1164.8,124.6,22.48,32.8
+F005,Wheat,Uttar Pradesh,263.2,25.7,12.95,39.1
+F006,Cotton,Maharashtra,640.5,154.8,24.97,30.5
+F007,Cotton,Punjab,862.4,93.2,26.85,24.7
+F008,Wheat,Gujarat,454.0,141.3,16.59,30.3
+F009,Sugarcane,Punjab,600.4,155.5,28.12,27.3
+F010,Wheat,Haryana,409.7,165.6,27.22,29.3
+F011,Cotton,Karnataka,273.0,120.7,15.37,36.7
+F012,Wheat,Maharashtra,532.6,174.3,19.07,36.2
+F013,Rice,Gujarat,,29.6,9.56,37.1
+F014,Sugarcane,Haryana,647.4,50.5,13.37,35.6
+F015,Cotton,Punjab,594.9,178.4,27.01,18.0
+F016,Sugarcane,Maharashtra,1197.9,23.1,25.4,22.5
+F017,Sugarcane,Gujarat,777.0,26.7,16.4,21.5
+F018,Wheat,Uttar Pradesh,529.0,67.4,12.82,19.8
+F019,Sugarcane,Gujarat,443.0,116.2,19.51,26.9
+F020,Sugarcane,Karnataka,1032.4,41.7,22.09,27.3
+F021,Maize,Haryana,1017.8,59.9,23.39,22.6
+F022,Sugarcane,Haryana,887.0,82.1,17.5,29.6
+F023,Wheat,Punjab,309.0,102.0,20.05,24.1
+F024,Cotton,Maharashtra,620.8,164.8,24.26,29.8
+F025,Wheat,Haryana,428.4,109.5,19.22,38.5
+F026,Maize,Haryana,1117.4,52.6,18.49,18.4
+F027,Cotton,Haryana,260.5,48.2,15.41,26.9
+F028,Rice,Punjab,562.1,162.6,23.26,41.5
+F029,Sugarcane,Uttar Pradesh,1146.9,114.4,23.83,40.2
+F030,Maize,Gujarat,511.8,25.4,10.76,32.4
+F031,Wheat,Gujarat,511.1,41.9,14.87,19.7
+F032,Maize,Gujarat,244.5,169.8,16.61,35.7
+F033,Maize,Maharashtra,284.9,95.7,20.05,19.9
+F034,Wheat,Karnataka,772.8,120.0,23.81,27.2
+F035,Sugarcane,Punjab,280.2,122.3,20.86,41.8
+F036,Maize,Karnataka,1134.3,131.1,26.21,29.0
+F037,Sugarcane,Punjab,718.7,102.3,17.16,25.4
+F038,Wheat,Haryana,1157.4,38.1,22.06,36.7
+F039,Cotton,Maharashtra,1096.4,78.9,23.65,21.4
+F040,Sugarcane,Haryana,953.8,74.8,20.24,40.3
+F006,Cotton,Maharashtra,640.5,154.8,24.97,30.5
+F042,Rice,Haryana,584.4,113.3,17.17,25.6
+F043,Cotton,Maharashtra,1037.1,155.8,30.73,35.1
+F044,Maize,Haryana,312.8,95.4,19.39,40.2
+F045,Cotton,Gujarat,720.0,127.5,25.42,35.2
+F046,Sugarcane,Karnataka,520.3,152.6,23.39,24.7
+F047,Maize,Uttar Pradesh,554.2,123.9,22.39,31.5
+F048,Cotton,Karnataka,389.9,143.1,23.45,24.4
+F049,Wheat,Gujarat,315.3,37.4,15.68,30.8
+F050,Maize,Punjab,884.5,51.9,16.83,29.4
+F051,Wheat,Karnataka,734.8,25.8,19.65,23.4
+F052,Sugarcane,Gujarat,1146.8,100.1,19.62,41.9
+F053,Rice,Punjab,610.5,162.8,23.53,27.3
+F054,Rice,Gujarat,1087.3,21.1,21.28,31.2
+F055,Sugarcane,Maharashtra,663.7,124.2,23.89,22.9
+F056,Wheat,Haryana,442.3,82.4,,20.1
+F057,Maize,Maharashtra,1110.0,156.9,23.55,26.4
+F058,Cotton,Maharashtra,750.3,142.9,19.22,29.7
+F059,Wheat,Karnataka,999.9,47.7,23.56,26.0
+F060,Rice,Karnataka,348.7,102.6,20.9,35.4
+F061,Cotton,Karnataka,779.0,130.3,21.89,36.2
+F062,Sugarcane,Maharashtra,1031.2,109.8,23.92,21.9
+F063,Sugarcane,Maharashtra,511.7,81.0,21.22,38.3
+F064,Rice,Maharashtra,1050.8,175.0,28.82,30.6
+F065,Rice,Karnataka,735.9,100.5,16.32,32.5
+F066,Wheat,Uttar Pradesh,1117.4,107.0,19.42,41.7
+F067,Wheat,Gujarat,366.8,168.9,26.5,29.0
+F068,Cotton,Maharashtra,446.3,98.9,22.95,26.2
+F069,Cotton,Uttar Pradesh,517.2,50.6,20.65,32.8
+F070,Rice,Gujarat,979.3,23.6,15.95,22.7
+F071,Maize,Maharashtra,923.6,59.1,20.68,30.0
+F072,Sugarcane,Punjab,1051.9,119.8,26.36,35.2
+F073,Cotton,Punjab,575.7,86.1,15.77,30.7
+F074,Rice,Gujarat,734.0,54.9,18.88,23.2
+F075,Sugarcane,Haryana,432.7,138.5,23.9,37.5
+F076,Maize,Uttar Pradesh,515.0,167.6,27.87,23.2
+F077,Wheat,Haryana,1089.0,41.2,19.06,20.1
+F078,Cotton,Karnataka,743.3,132.8,24.07,22.8
+F079,Wheat,Punjab,400.9,129.2,23.42,39.9
+F080,Wheat,Gujarat,705.7,141.3,25.27,30.1
+F081,Rice,Punjab,682.1,23.9,16.9,36.3
+F082,Sugarcane,Karnataka,346.6,49.5,18.28,22.9
+F083,Maize,Gujarat,295.2,29.9,11.82,40.8
+F084,Wheat,Maharashtra,590.9,88.2,16.7,26.5
+F085,Maize,Punjab,834.0,26.5,16.72,22.8
+F086,Maize,Gujarat,570.2,167.5,19.33,32.5
+F087,Wheat,Maharashtra,1093.2,148.3,29.92,34.9
+F088,Cotton,Uttar Pradesh,799.6,100.7,23.27,41.6
+F089,,Maharashtra,1111.3,139.1,28.83,36.7
+F090,Cotton,Haryana,1096.5,160.8,29.74,34.7
+F091,Rice,Karnataka,406.8,49.6,12.8,37.1
+F092,Wheat,Punjab,1088.0,178.5,22.72,39.7
+F093,Maize,Gujarat,498.9,54.6,13.97,27.7
+F094,Wheat,Karnataka,714.7,99.6,16.95,23.1
+F095,Cotton,Uttar Pradesh,222.8,118.5,14.85,35.7
+F096,Cotton,Uttar Pradesh,250.5,51.3,10.77,27.0
+F097,Maize,Maharashtra,1105.6,108.0,29.55,30.2
+F098,Sugarcane,Punjab,838.0,149.5,25.03,19.8
+F099,Wheat,Karnataka,1130.2,45.6,18.45,29.3
+F100,Cotton,Uttar Pradesh,811.2,29.4,15.7,40.7
+F021,Maize,Haryana,1017.8,59.9,23.39,22.6
+F102,Sugarcane,Maharashtra,863.6,139.6,26.27,18.6
+F103,Sugarcane,Punjab,833.0,85.4,16.25,34.4
+F104,Maize,Gujarat,597.8,113.1,18.35,35.4
+F105,Rice,Karnataka,919.1,60.1,15.24,36.1
+F106,Wheat,Gujarat,1109.5,43.1,17.14,41.0
+F107,Wheat,Punjab,824.2,92.9,16.79,22.9
+F108,Sugarcane,Haryana,324.3,90.9,16.41,34.0
+F109,Maize,Gujarat,782.2,87.1,20.36,36.7
+F110,Rice,Maharashtra,934.3,58.1,23.85,20.7
+F111,Sugarcane,Uttar Pradesh,1046.6,64.0,23.84,32.6
+F112,Sugarcane,Haryana,833.1,140.5,21.43,22.6
+F113,Rice,Gujarat,239.5,29.7,12.37,24.5
+F114,Sugarcane,Punjab,302.5,106.7,13.07,19.7
+F115,Rice,Uttar Pradesh,434.8,177.0,21.76,29.6
+F116,Maize,Maharashtra,694.4,41.3,19.47,38.9
+F117,Cotton,Uttar Pradesh,1038.0,143.0,28.96,28.7
+F118,Cotton,Haryana,568.9,124.6,17.86,41.7
+F119,Sugarcane,Gujarat,1026.2,49.4,21.25,33.7
+F120,Cotton,Maharashtra,278.5,33.3,13.49,31.5
+F121,Cotton,Maharashtra,1023.5,21.5,23.44,25.4
+F122,Sugarcane,Punjab,895.1,99.2,20.0,36.3
+F123,Rice,Haryana,557.8,136.2,18.21,26.8
+F124,Cotton,Uttar Pradesh,794.8,164.4,22.57,34.5
+F125,Sugarcane,Maharashtra,658.3,55.4,18.88,41.2
+F126,Sugarcane,Haryana,284.3,152.6,21.21,18.6
+F127,Sugarcane,Karnataka,996.1,138.2,24.7,26.8
+F128,Rice,Uttar Pradesh,762.8,48.3,21.62,36.2
+F129,Maize,Punjab,421.2,29.2,12.16,21.8
+F130,Wheat,Gujarat,1041.7,87.6,21.0,32.0
+F131,Sugarcane,Punjab,534.5,63.8,15.01,20.5
+F132,Wheat,Gujarat,853.5,35.6,16.87,37.6
+F133,Rice,Karnataka,965.4,103.4,21.47,36.4
+F134,Maize,Maharashtra,872.4,99.0,24.54,30.9
+F135,Sugarcane,Punjab,610.6,152.2,26.18,34.0
+F136,Cotton,Punjab,1088.6,173.2,28.12,33.4
+F137,Wheat,Punjab,621.6,87.3,21.47,21.5
+F138,Cotton,Gujarat,367.7,52.7,13.88,28.2
+F139,Wheat,Karnataka,508.4,38.4,18.29,33.6
+F140,Rice,Punjab,953.1,22.7,21.98,29.5
+F141,Maize,Punjab,397.6,77.5,18.0,32.1
+F142,Cotton,Uttar Pradesh,708.6,90.7,18.24,39.5
+F143,Maize,Gujarat,748.2,150.7,21.99,29.5
+F144,Cotton,Maharashtra,860.3,143.5,27.6,20.2
+F145,Cotton,Punjab,417.4,41.5,19.16,37.2
+F146,Sugarcane,Maharashtra,987.7,29.3,21.95,40.2
+F147,Cotton,Maharashtra,650.0,59.4,22.45,28.1
+F148,Cotton,Haryana,971.9,43.2,21.83,39.8
+F149,Rice,Gujarat,941.7,119.1,19.63,30.4
+F150,Sugarcane,Haryana,201.4,151.4,21.77,38.3

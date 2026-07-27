@@ -1,0 +1,101 @@
+Mission_Name,Country,Rocket_Type,Launch_Year,Mission_Cost,Payload_Weight,Success
+Mission_1,Russia,Long March,2011,919.19,5910.5,Yes
+Mission_2,India,PSLV,2017,819.68,17572.1,Yes
+Mission_3,Japan,Long March,2011,661.38,15407.8,Yes
+Mission_4,China,Long March,2026,358.26,11644.8,Yes
+Mission_5,Japan,PSLV,2007,1422.95,13312.2,Yes
+Mission_6,Russia,PSLV,2017,111.84,14037.2,Yes
+Mission_7,China,Soyuz,2007,720.03,22526.0,Yes
+Mission_8,India,PSLV,2009,362.94,23035.0,Yes
+Mission_9,Russia,Soyuz,2010,1418.67,16575.4,Yes
+Mission_10,India,GSLV,2020,1041.6,10591.8,No
+Mission_11,ESA,Falcon,2009,499.22,340.6,Yes
+Mission_12,Japan,Long March,2011,1354.96,24351.0,Yes
+Mission_13,Russia,PSLV,2022,635.9,19142.1,Yes
+Mission_14,ESA,Long March,2006,239.84,21625.5,Yes
+Mission_15,ESA,GSLV,2024,1414.77,3284.3,Yes
+Mission_16,China,GSLV,2010,,23118.5,No
+Mission_17,China,Long March,2012,1276.88,3106.9,No
+Mission_18,USA,Ariane,2007,776.79,476.5,No
+Mission_19,China,GSLV,2017,628.7,20594.7,Yes
+Mission_20,Russia,PSLV,2022,184.36,22013.3,No
+Mission_21,ESA,Long March,2019,383.8,21368.8,Yes
+Mission_22,ESA,PSLV,2008,1317.63,18074.0,Yes
+Mission_23,ESA,Ariane,2012,606.15,11065.5,No
+Mission_24,Russia,Long March,2013,151.03,7467.1,Yes
+Mission_25,China,Long March,2022,234.56,22421.1,Yes
+Mission_26,China,Long March,2026,1248.16,4153.6,Yes
+Mission_27,ESA,Soyuz,2024,1016.83,11113.3,Yes
+Mission_28,USA,PSLV,2005,1017.24,17419.6,No
+Mission_29,USA,Ariane,2026,298.91,16073.6,Yes
+Mission_30,ESA,Ariane,2012,641.96,21571.5,Yes
+Mission_31,India,Falcon,2021,821.04,232.1,Yes
+Mission_32,ESA,Ariane,2010,791.12,20183.6,No
+Mission_33,China,Ariane,2018,728.64,13369.6,Yes
+Mission_34,ESA,Soyuz,2014,340.41,711.3,Yes
+Mission_35,China,Falcon,2023,96.34,1646.1,Yes
+Mission_6,Russia,PSLV,2017,111.84,14037.2,Yes
+Mission_37,Russia,Long March,2010,433.96,8360.6,No
+Mission_38,Russia,Ariane,2017,656.34,23867.4,Yes
+Mission_39,China,GSLV,2013,721.59,21139.8,Yes
+Mission_40,USA,Long March,2023,1344.75,22253.8,Yes
+Mission_41,USA,Falcon,2022,397.38,11604.8,Yes
+Mission_42,China,Long March,2007,536.84,18396.4,Yes
+Mission_43,Japan,PSLV,2025,67.41,8113.3,Yes
+Mission_44,USA,Soyuz,2006,626.03,1384.4,Yes
+Mission_45,Japan,PSLV,2010,1264.86,,Yes
+Mission_46,USA,GSLV,2008,752.76,6965.5,Yes
+Mission_47,India,Soyuz,2011,1174.6,4506.3,Yes
+Mission_48,Japan,Falcon,2026,214.67,3317.4,Yes
+Mission_49,Japan,Falcon,2006,1150.82,16236.0,Yes
+Mission_50,ESA,GSLV,2024,931.98,24222.0,Yes
+Mission_51,India,PSLV,2025,682.4,7825.1,Yes
+Mission_52,USA,Long March,2025,1451.63,18321.2,Yes
+Mission_53,Russia,Ariane,2008,1185.01,24749.0,Yes
+Mission_54,ESA,Soyuz,2007,1320.83,4203.5,No
+Mission_55,USA,Long March,2016,416.85,14814.6,Yes
+Mission_56,India,PSLV,2010,242.48,480.0,Yes
+Mission_57,Japan,PSLV,2014,229.23,10801.9,Yes
+Mission_58,China,GSLV,2024,1041.15,21195.2,Yes
+Mission_59,India,Long March,2013,934.9,13789.8,Yes
+Mission_60,India,PSLV,2017,657.7,17947.2,Yes
+Mission_61,USA,Soyuz,2018,1487.88,5461.6,Yes
+Mission_62,USA,Soyuz,2008,680.33,14225.9,Yes
+Mission_63,USA,GSLV,2010,962.43,1719.5,No
+Mission_64,USA,Soyuz,2018,265.83,23330.2,Yes
+Mission_65,Russia,Long March,2007,290.17,5986.2,Yes
+Mission_66,Russia,Soyuz,2007,585.88,4165.0,Yes
+Mission_67,Russia,,2008,682.69,5201.6,Yes
+Mission_68,USA,Long March,2012,299.95,17225.2,Yes
+Mission_69,Japan,Ariane,2021,1379.76,21294.1,Yes
+Mission_70,USA,Soyuz,2012,1046.29,10640.7,Yes
+Mission_71,India,GSLV,2013,519.85,14201.8,Yes
+Mission_72,India,Ariane,2005,1417.79,11031.6,Yes
+Mission_73,India,Ariane,2014,318.42,22525.6,Yes
+Mission_74,India,Soyuz,2021,478.23,18197.1,Yes
+Mission_75,China,Long March,2009,1060.06,13365.2,Yes
+Mission_76,India,Falcon,2016,385.82,15285.0,No
+Mission_77,Russia,Falcon,2016,1414.98,22268.3,Yes
+Mission_78,USA,Falcon,2005,92.12,5454.6,Yes
+Mission_11,ESA,Falcon,2009,499.22,340.6,Yes
+Mission_80,ESA,Ariane,2016,770.9,14047.1,Yes
+Mission_81,Japan,Ariane,2013,524.27,8752.8,Yes
+Mission_82,Japan,GSLV,2007,1398.97,5648.7,Yes
+Mission_83,India,PSLV,2014,950.95,6229.0,Yes
+Mission_84,Russia,Soyuz,2005,922.79,6695.7,Yes
+Mission_85,India,Ariane,2005,459.33,19161.3,No
+Mission_86,ESA,Long March,2018,1201.33,18914.1,Yes
+Mission_87,USA,Soyuz,2022,1387.76,21694.9,No
+Mission_88,Russia,GSLV,2007,906.99,7138.6,Yes
+Mission_89,China,Soyuz,2007,1059.96,1379.3,Yes
+Mission_90,USA,Long March,2011,663.88,16642.6,Yes
+Mission_91,India,Falcon,2008,1209.05,5608.1,Yes
+Mission_92,India,Falcon,2018,1254.02,21993.4,Yes
+Mission_93,USA,Ariane,2014,1497.56,17700.5,Yes
+Mission_94,USA,Long March,2017,966.12,2126.7,No
+Mission_95,China,PSLV,2010,1141.75,18244.7,Yes
+Mission_96,Japan,Falcon,2013,736.52,3385.1,Yes
+Mission_97,Russia,GSLV,2021,494.62,11307.3,Yes
+Mission_98,ESA,GSLV,2019,460.68,4920.1,Yes
+Mission_99,Japan,GSLV,2024,564.84,12997.9,Yes
+Mission_100,Russia,GSLV,2023,50.49,18178.0,Yes

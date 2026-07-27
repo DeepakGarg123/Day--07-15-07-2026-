@@ -1,0 +1,121 @@
+Passenger_ID,Airline,Source_City,Destination_City,Ticket_Price,Flight_Duration,Travel_Class,Delay_Minutes
+P001,SpiceJet,Mumbai,Delhi,3843.0,4.3,Economy,6.0
+P002,Vistara,Mumbai,Kolkata,3467.0,2.0,Economy,0.0
+P003,IndiGo,Delhi,Kolkata,11945.0,3.5,Premium Economy,29.0
+P004,IndiGo,Delhi,Jaipur,5487.0,2.3,Economy,51.0
+P005,SpiceJet,Chennai,Jaipur,5812.0,1.4,Economy,40.0
+P006,Vistara,Delhi,Pune,5800.0,1.4,Economy,2.0
+P007,Akasa Air,Hyderabad,Jaipur,9162.0,3.6,Premium Economy,23.0
+P008,SpiceJet,Chennai,Jaipur,16107.0,4.9,Business,19.0
+P009,Vistara,Pune,Bengaluru,5688.0,1.7,Economy,6.0
+P010,IndiGo,Mumbai,Kolkata,4705.0,1.7,Economy,48.0
+P011,Akasa Air,Pune,Bengaluru,5356.0,4.8,Economy,27.0
+P012,SpiceJet,Delhi,Jaipur,3242.0,1.9,Economy,10.0
+P013,Vistara,Kolkata,Mumbai,7966.0,3.1,Economy,23.0
+P014,Akasa Air,Hyderabad,Pune,7480.0,2.8,Economy,39.0
+P015,Akasa Air,Chennai,Mumbai,3085.0,4.9,Economy,31.0
+P016,Air India,Pune,Hyderabad,,5.5,Economy,34.0
+P017,Air India,Hyderabad,Kolkata,3638.0,4.1,Economy,9.0
+P018,SpiceJet,Kolkata,Delhi,6416.0,1.0,Economy,21.0
+P019,IndiGo,Hyderabad,Kolkata,3571.0,4.9,Economy,16.0
+P020,SpiceJet,Chennai,Mumbai,10618.0,5.3,Premium Economy,52.0
+P006,Vistara,Delhi,Pune,5800.0,1.4,Economy,2.0
+P022,Air India,Hyderabad,Mumbai,7347.0,5.3,Economy,0.0
+P023,Vistara,Mumbai,Pune,10563.0,4.4,Premium Economy,40.0
+P024,Akasa Air,Bengaluru,Chennai,9666.0,5.3,Premium Economy,41.0
+P025,SpiceJet,Chennai,Pune,8202.0,3.9,Economy,2.0
+P026,IndiGo,Mumbai,Bengaluru,2872.0,3.6,Economy,34.0
+P027,IndiGo,Chennai,Kolkata,8498.0,3.8,Economy,30.0
+P028,Akasa Air,Kolkata,Delhi,8180.0,3.2,Economy,68.0
+P029,Akasa Air,Bengaluru,Pune,4690.0,4.5,Economy,29.0
+P030,Vistara,Mumbai,Pune,6067.0,3.1,Economy,12.0
+P031,Air India,Delhi,Pune,5479.0,4.6,Economy,35.0
+P032,Vistara,Jaipur,Mumbai,6489.0,2.1,Economy,33.0
+P033,Akasa Air,Mumbai,Hyderabad,8042.0,5.5,Economy,52.0
+P034,Vistara,Chennai,Mumbai,4451.0,4.9,Economy,0.0
+P035,Vistara,Delhi,Bengaluru,5898.0,2.2,Economy,29.0
+P036,Akasa Air,Pune,Kolkata,6686.0,1.7,Economy,3.0
+P037,Air India,Hyderabad,Mumbai,7141.0,1.3,Economy,22.0
+P038,Akasa Air,Jaipur,Hyderabad,6860.0,1.4,Economy,30.0
+P039,Akasa Air,Bengaluru,Delhi,4626.0,2.8,Economy,49.0
+P040,Air India,Delhi,Kolkata,7481.0,3.5,Economy,15.0
+P041,IndiGo,Kolkata,Bengaluru,5273.0,2.1,Economy,
+P042,SpiceJet,Hyderabad,Chennai,14794.0,1.0,Business,43.0
+P043,Akasa Air,Mumbai,Delhi,4872.0,1.6,Economy,20.0
+P044,SpiceJet,Chennai,Bengaluru,7150.0,4.2,Economy,31.0
+P045,Akasa Air,Delhi,Pune,8134.0,1.5,Economy,36.0
+P046,Akasa Air,Mumbai,Pune,5008.0,3.7,Economy,14.0
+P047,SpiceJet,Kolkata,Mumbai,4757.0,5.1,Economy,29.0
+P048,SpiceJet,Pune,Jaipur,5432.0,4.5,Economy,17.0
+P049,Vistara,Hyderabad,Mumbai,6203.0,3.5,Economy,61.0
+P050,Air India,Bengaluru,Kolkata,10971.0,3.5,Premium Economy,56.0
+P051,Air India,Pune,Mumbai,3026.0,5.0,Economy,28.0
+P052,Akasa Air,Mumbai,Chennai,9529.0,5.4,Premium Economy,39.0
+P053,IndiGo,Bengaluru,Mumbai,15650.0,5.0,Business,57.0
+P054,Vistara,Kolkata,Jaipur,8232.0,2.2,Premium Economy,30.0
+P055,Air India,Mumbai,Hyderabad,8022.0,1.9,Premium Economy,41.0
+P056,Air India,Chennai,Mumbai,5964.0,2.5,Economy,15.0
+P057,SpiceJet,Mumbai,Jaipur,6873.0,2.8,Economy,49.0
+P058,SpiceJet,Delhi,Mumbai,4874.0,1.2,Economy,22.0
+P059,SpiceJet,Pune,Bengaluru,6889.0,1.5,Economy,35.0
+P060,Vistara,Delhi,Pune,7110.0,4.1,Economy,17.0
+P061,Vistara,Chennai,Bengaluru,8141.0,5.1,Economy,3.0
+P062,SpiceJet,Mumbai,Pune,8163.0,2.8,Economy,4.0
+P063,SpiceJet,Pune,Kolkata,4271.0,2.9,Economy,52.0
+P064,Akasa Air,Bengaluru,Kolkata,7188.0,4.8,Economy,13.0
+P065,IndiGo,Hyderabad,Bengaluru,7451.0,3.7,Economy,15.0
+P066,Vistara,Chennai,Kolkata,7590.0,4.0,Premium Economy,44.0
+P067,Akasa Air,Hyderabad,Kolkata,4624.0,4.0,Economy,27.0
+P068,IndiGo,Delhi,Mumbai,19207.0,4.8,Business,38.0
+P069,Vistara,Mumbai,Hyderabad,10915.0,1.9,Premium Economy,17.0
+P070,Air India,Chennai,Mumbai,7073.0,4.5,Premium Economy,2.0
+P071,Akasa Air,Chennai,Mumbai,7266.0,2.1,Economy,37.0
+P072,Akasa Air,Jaipur,Kolkata,19077.0,2.4,Business,6.0
+P073,Akasa Air,Jaipur,Hyderabad,7188.0,3.0,Economy,46.0
+P074,IndiGo,Jaipur,Bengaluru,8471.0,4.4,Premium Economy,58.0
+P075,IndiGo,Jaipur,Kolkata,3334.0,4.2,Economy,26.0
+P011,Akasa Air,Pune,Bengaluru,5356.0,4.8,Economy,27.0
+P077,Vistara,Chennai,Delhi,7145.0,3.1,Economy,59.0
+P078,Akasa Air,Pune,Jaipur,14360.0,4.9,Business,39.0
+P079,Air India,Pune,Chennai,16646.0,4.4,Business,54.0
+P080,Akasa Air,Pune,Hyderabad,8006.0,3.2,Premium Economy,0.0
+P081,Vistara,Hyderabad,Chennai,5453.0,4.0,Economy,34.0
+P082,Akasa Air,Jaipur,Mumbai,5927.0,3.7,Economy,0.0
+P083,Vistara,Delhi,Mumbai,6482.0,1.8,Economy,23.0
+P084,SpiceJet,Jaipur,Bengaluru,9305.0,2.3,Premium Economy,42.0
+P085,Air India,Pune,Bengaluru,7118.0,1.2,Economy,38.0
+P086,Air India,Mumbai,Jaipur,8225.0,1.9,Premium Economy,20.0
+P087,IndiGo,Delhi,Kolkata,6579.0,4.0,Economy,12.0
+P088,SpiceJet,Hyderabad,Jaipur,7674.0,5.3,Economy,19.0
+P089,IndiGo,Mumbai,Jaipur,15085.0,3.6,Business,48.0
+P090,IndiGo,Pune,Chennai,8357.0,4.7,Economy,13.0
+P091,SpiceJet,Chennai,Delhi,11118.0,4.6,,32.0
+P092,Akasa Air,Delhi,Chennai,5735.0,1.3,Economy,0.0
+P093,Vistara,Kolkata,Delhi,7064.0,3.0,Premium Economy,0.0
+P094,IndiGo,Jaipur,Kolkata,6974.0,5.3,Economy,57.0
+P095,Akasa Air,Hyderabad,Kolkata,10008.0,3.0,Premium Economy,23.0
+P096,Air India,Chennai,Jaipur,6392.0,2.1,Economy,9.0
+P097,Akasa Air,Jaipur,Hyderabad,5455.0,1.1,Economy,32.0
+P098,SpiceJet,Chennai,Bengaluru,7583.0,4.2,Economy,14.0
+P099,Air India,Hyderabad,Kolkata,4265.0,1.4,Economy,20.0
+P100,Vistara,Chennai,Pune,6720.0,3.0,Economy,2.0
+P101,SpiceJet,Delhi,Mumbai,8367.0,2.1,Economy,15.0
+P102,Akasa Air,Kolkata,Chennai,8457.0,3.0,Economy,8.0
+P103,IndiGo,Hyderabad,Bengaluru,4277.0,2.4,Economy,22.0
+P104,IndiGo,Bengaluru,Mumbai,8465.0,4.3,Premium Economy,0.0
+P105,IndiGo,Hyderabad,Delhi,5656.0,1.8,Economy,49.0
+P106,Air India,Hyderabad,Delhi,8413.0,5.2,Economy,27.0
+P107,Air India,Jaipur,Delhi,6545.0,3.2,Economy,0.0
+P108,Vistara,Hyderabad,Jaipur,3235.0,2.8,Economy,68.0
+P109,Air India,Mumbai,Kolkata,7310.0,5.3,Economy,37.0
+P110,Akasa Air,Pune,Hyderabad,8048.0,4.5,Premium Economy,32.0
+P111,Vistara,Pune,Chennai,7521.0,5.5,Economy,15.0
+P112,IndiGo,Mumbai,Jaipur,4867.0,4.0,Economy,51.0
+P113,IndiGo,Bengaluru,Mumbai,3982.0,1.0,Economy,0.0
+P114,IndiGo,Hyderabad,Delhi,5016.0,4.2,Economy,33.0
+P115,IndiGo,Jaipur,Delhi,19320.0,3.7,Business,29.0
+P116,IndiGo,Mumbai,Kolkata,4876.0,4.7,Economy,12.0
+P117,IndiGo,Mumbai,Delhi,11074.0,4.4,Premium Economy,10.0
+P118,SpiceJet,Mumbai,Hyderabad,4930.0,3.3,Economy,18.0
+P119,Air India,Jaipur,Chennai,6239.0,4.3,Economy,21.0
+P120,Akasa Air,Chennai,Pune,2869.0,5.5,Economy,22.0

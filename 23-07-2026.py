@@ -1,36 +1,39 @@
-"""Exercise 1 – Employee Performance Analytics Dashboard
-Create a CSV file with at least 50 employee records.
-Columns:
+# Exercise 1 – Employee Performance Analytics Dashboard
+# Create a CSV file with at least 50 employee records.
+# Columns:
 
-Employee ID
-Name
-Department
-City
-Experience
-Salary
-Performance Rating
-Tasks
-1. Read the dataset.
-2. Check dataset information using info().
-3. Find missing values and fill numeric missing values with the column average.
-4. Remove duplicate records.
-5. Display:
-Department with the highest average salary.
-City with the highest average performance rating.
-Top 5 highest-paid employees.
-6. Create:
-Bar chart → Average Salary by Department.
-Pie chart → Employees by City.
-Histogram → Salary Distribution.
-7. Write five business insights.
+# Employee ID
+# Name
+# Department
+# City
+# Experience
+# Salary
+# Performance Rating
+# Tasks
+# 1. Read the dataset.
+# 2. Check dataset information using info().
+# 3. Find missing values and fill numeric missing values with the column average.
+# 4. Remove duplicate records.
+# 5. Display:
+# Department with the highest average salary.
+# City with the highest average performance rating.
+# Top 5 highest-paid employees.
+# 6. Create:
+# Bar chart → Average Salary by Department.
+# Pie chart → Employees by City.
+# Histogram → Salary Distribution.
+# 7. Write five business insights.
 
 import pandas as pd
 import matplotlib.pyplot as plt
 df = pd.read_csv("employees.csv")
 print(df)
 print(df.info())
+print(df.isnull().sum())
 df["Experience"] = df["Experience"].fillna(df["Experience"].mean())
+print(df.isnull().sum())
 df["Salary"] = df["Salary"].fillna(df["Salary"].mean())
+print(df.isnull().sum())
 print(df.isnull().sum())
 print(df.drop_duplicates())
 print(df.groupby("Department")["Salary"].max())
@@ -51,7 +54,7 @@ plt.xlabel("Salary")
 plt.ylabel("Frequency")
 plt.title("Salary Distribution")
 plt.show()
-"""
+
 
 
 
