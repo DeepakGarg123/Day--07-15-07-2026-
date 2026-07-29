@@ -1,0 +1,251 @@
+Flight,Airline,Delay_Minutes,Destination,Ticket_Class
+FL001,Go First,28.0,Delhi,Business
+FL002,SpiceJet,62.0,Hyderabad,Economy
+FL003,Go First,26.0,Mumbai,Business
+FL004,Vistara,8.0,Delhi,Economy
+FL005,Air India,59.0,Delhi,Business
+FL006,Air India,166.0,Jaipur,Economy
+FL007,Vistara,150.0,Chennai,Economy
+FL008,Air India,178.0,Jaipur,Premium Economy
+FL009,SpiceJet,39.0,Hyderabad,Premium Economy
+FL010,IndiGo,23.0,Jaipur,Economy
+FL011,SpiceJet,88.0,Chennai,Economy
+FL012,Go First,117.0,Mumbai,Premium Economy
+FL013,IndiGo,141.0,Chennai,Business
+FL014,Akasa Air,92.0,Hyderabad,Business
+FL015,IndiGo,11.0,Hyderabad,Premium Economy
+FL016,IndiGo,59.0,Mumbai,Premium Economy
+FL017,SpiceJet,116.0,Kolkata,Economy
+FL018,SpiceJet,90.0,Hyderabad,Business
+FL019,SpiceJet,179.0,Mumbai,Business
+FL020,Go First,43.0,Hyderabad,Economy
+FL021,Vistara,,Chennai,Business
+FL022,Go First,142.0,Hyderabad,Business
+FL023,SpiceJet,14.0,Hyderabad,Economy
+FL024,SpiceJet,102.0,Chennai,Economy
+FL025,Air India,145.0,Kolkata,Economy
+FL026,Go First,127.0,Jaipur,Business
+FL027,Vistara,36.0,Chennai,Economy
+FL028,Air India,143.0,Chennai,Business
+FL029,Akasa Air,109.0,Jaipur,Premium Economy
+FL030,Air India,35.0,Goa,Economy
+FL031,IndiGo,28.0,Bangalore,Business
+FL032,Air India,174.0,Jaipur,Business
+FL033,IndiGo,98.0,Jaipur,Business
+FL034,Vistara,135.0,Chennai,Business
+FL035,IndiGo,174.0,Mumbai,Business
+FL036,Akasa Air,68.0,Kolkata,Economy
+FL037,SpiceJet,111.0,Bangalore,Premium Economy
+FL038,IndiGo,67.0,Bangalore,Business
+FL039,IndiGo,160.0,Chennai,Business
+FL040,Akasa Air,155.0,Hyderabad,Economy
+FL041,SpiceJet,41.0,Delhi,Business
+FL042,SpiceJet,125.0,Delhi,Economy
+FL043,SpiceJet,78.0,Hyderabad,Economy
+FL044,Air India,145.0,Mumbai,Economy
+FL045,Go First,124.0,Mumbai,Business
+FL046,Air India,32.0,Goa,Business
+FL047,Air India,67.0,Jaipur,Economy
+FL048,Akasa Air,176.0,Hyderabad,Business
+FL049,SpiceJet,102.0,Kolkata,Premium Economy
+FL050,Akasa Air,115.0,Mumbai,Economy
+FL051,Air India,16.0,Kolkata,Economy
+FL052,Akasa Air,141.0,Hyderabad,Business
+FL053,Air India,1.0,Mumbai,Business
+FL054,Go First,15.0,Hyderabad,Economy
+FL055,IndiGo,84.0,Mumbai,Business
+FL056,Air India,71.0,Goa,Economy
+FL057,Akasa Air,33.0,Goa,Economy
+FL058,Vistara,104.0,Hyderabad,Economy
+FL059,IndiGo,168.0,Jaipur,Premium Economy
+FL060,Vistara,105.0,Goa,Business
+FL061,IndiGo,172.0,Mumbai,Economy
+FL062,Vistara,86.0,Mumbai,Economy
+FL063,Air India,48.0,Goa,Economy
+FL064,Vistara,46.0,Chennai,Premium Economy
+FL065,Air India,19.0,Goa,Business
+FL066,IndiGo,12.0,Delhi,Economy
+FL067,Air India,42.0,Jaipur,Premium Economy
+FL068,Vistara,54.0,Jaipur,Economy
+FL069,Air India,97.0,Delhi,Premium Economy
+FL070,SpiceJet,116.0,Chennai,Premium Economy
+FL071,Go First,142.0,Goa,Economy
+FL072,Air India,75.0,Hyderabad,Economy
+FL073,Akasa Air,138.0,Delhi,Business
+FL074,SpiceJet,14.0,Delhi,Business
+FL075,Vistara,128.0,Bangalore,Economy
+FL076,Akasa Air,20.0,Bangalore,
+FL077,Akasa Air,17.0,Hyderabad,Premium Economy
+FL078,IndiGo,145.0,Hyderabad,Business
+FL079,Akasa Air,10.0,Mumbai,Premium Economy
+FL080,Go First,149.0,Kolkata,Premium Economy
+FL081,Air India,171.0,Kolkata,Economy
+FL082,SpiceJet,101.0,Bangalore,Business
+FL083,Go First,76.0,Goa,Premium Economy
+FL084,IndiGo,2.0,Goa,Business
+FL085,Akasa Air,25.0,Mumbai,Business
+FL086,Air India,129.0,Chennai,Economy
+FL087,SpiceJet,17.0,Hyderabad,Premium Economy
+FL088,SpiceJet,40.0,Goa,Business
+FL089,Go First,77.0,Delhi,Business
+FL090,Akasa Air,76.0,Mumbai,Economy
+FL091,SpiceJet,29.0,Mumbai,Business
+FL092,Akasa Air,39.0,Chennai,Premium Economy
+FL093,Akasa Air,53.0,Kolkata,Economy
+FL094,Go First,162.0,Chennai,Business
+FL095,Vistara,64.0,Delhi,Economy
+FL096,Go First,108.0,Chennai,Economy
+FL097,IndiGo,85.0,Bangalore,Business
+FL098,SpiceJet,41.0,Goa,Business
+FL099,Go First,109.0,Delhi,Economy
+FL100,IndiGo,176.0,Bangalore,Business
+FL101,IndiGo,94.0,Bangalore,Premium Economy
+FL102,Air India,10.0,Chennai,Premium Economy
+FL103,IndiGo,91.0,Hyderabad,Business
+FL104,Air India,170.0,Mumbai,Premium Economy
+FL105,Akasa Air,104.0,Bangalore,Economy
+FL106,Air India,45.0,Jaipur,Economy
+FL107,Air India,85.0,Jaipur,Business
+FL108,Go First,63.0,Chennai,Economy
+FL109,Go First,27.0,Jaipur,Economy
+FL110,Vistara,56.0,Hyderabad,Premium Economy
+FL111,SpiceJet,78.0,Hyderabad,Economy
+FL112,IndiGo,168.0,Hyderabad,Premium Economy
+FL113,SpiceJet,71.0,Mumbai,Premium Economy
+FL114,SpiceJet,164.0,Jaipur,Business
+FL115,Akasa Air,84.0,Delhi,Economy
+FL116,SpiceJet,45.0,Chennai,Economy
+FL117,IndiGo,152.0,Jaipur,Premium Economy
+FL118,Go First,80.0,Jaipur,Business
+FL119,Akasa Air,29.0,Jaipur,Business
+FL120,Air India,65.0,Delhi,Business
+FL121,Vistara,0.0,Hyderabad,Premium Economy
+FL122,Vistara,17.0,Kolkata,Business
+FL123,SpiceJet,169.0,Mumbai,Business
+FL124,SpiceJet,129.0,Chennai,Business
+FL125,Vistara,83.0,Jaipur,Business
+FL126,SpiceJet,141.0,Bangalore,Economy
+FL127,Vistara,170.0,Jaipur,Business
+FL128,Go First,44.0,Chennai,Premium Economy
+FL129,Akasa Air,0.0,Chennai,Premium Economy
+FL130,Air India,110.0,Kolkata,Premium Economy
+FL131,Vistara,113.0,Hyderabad,Business
+FL132,Vistara,43.0,Mumbai,Premium Economy
+FL133,Akasa Air,169.0,Kolkata,Economy
+FL134,Air India,172.0,Chennai,Economy
+FL135,Air India,37.0,Delhi,Economy
+FL136,Air India,121.0,Mumbai,Premium Economy
+FL137,Vistara,161.0,Hyderabad,Business
+FL138,Go First,98.0,Goa,Premium Economy
+FL139,Air India,37.0,Delhi,Economy
+FL140,Vistara,56.0,Bangalore,Business
+FL141,Akasa Air,118.0,Delhi,Business
+FL142,Air India,31.0,Goa,Economy
+FL143,Vistara,170.0,Kolkata,Premium Economy
+FL144,Akasa Air,129.0,Jaipur,Business
+FL145,Vistara,40.0,Goa,Premium Economy
+FL146,SpiceJet,63.0,Chennai,Business
+FL147,Vistara,160.0,Hyderabad,Premium Economy
+FL148,Vistara,19.0,Chennai,Economy
+FL149,SpiceJet,85.0,Kolkata,Business
+FL150,IndiGo,35.0,Bangalore,Economy
+FL151,Vistara,177.0,Bangalore,Business
+FL152,Air India,16.0,Jaipur,Premium Economy
+FL153,SpiceJet,138.0,Goa,Premium Economy
+FL154,IndiGo,52.0,Jaipur,Premium Economy
+FL155,Akasa Air,178.0,Delhi,Business
+FL156,Vistara,122.0,Delhi,Premium Economy
+FL157,SpiceJet,99.0,Jaipur,Business
+FL158,Go First,139.0,Hyderabad,Premium Economy
+FL159,Air India,69.0,Jaipur,Premium Economy
+FL160,IndiGo,99.0,Kolkata,Business
+FL161,Go First,103.0,Bangalore,Premium Economy
+FL162,Air India,159.0,Delhi,Premium Economy
+FL163,Akasa Air,144.0,Delhi,Economy
+FL164,Go First,109.0,Bangalore,Premium Economy
+FL165,Air India,12.0,Chennai,Premium Economy
+FL166,SpiceJet,54.0,Goa,Premium Economy
+FL167,SpiceJet,97.0,Chennai,Premium Economy
+FL168,SpiceJet,20.0,Goa,Economy
+FL169,Go First,138.0,Delhi,Premium Economy
+FL170,Air India,166.0,Mumbai,Business
+FL171,IndiGo,7.0,Hyderabad,Economy
+FL172,IndiGo,159.0,Bangalore,Economy
+FL173,Air India,121.0,Mumbai,Business
+FL174,Air India,119.0,Chennai,Premium Economy
+FL175,Air India,155.0,Mumbai,Economy
+FL176,SpiceJet,27.0,Delhi,Premium Economy
+FL177,Akasa Air,173.0,Jaipur,Premium Economy
+FL178,Go First,50.0,Mumbai,Business
+FL179,Go First,160.0,Hyderabad,Economy
+FL180,Go First,77.0,Mumbai,Business
+FL181,IndiGo,88.0,Jaipur,Business
+FL182,SpiceJet,17.0,Kolkata,Economy
+FL183,Vistara,125.0,Mumbai,Premium Economy
+FL184,SpiceJet,162.0,Goa,Business
+FL185,Air India,111.0,Bangalore,Business
+FL186,Akasa Air,166.0,Chennai,Business
+FL187,Akasa Air,123.0,Goa,Premium Economy
+FL188,Go First,151.0,Chennai,Premium Economy
+FL189,Air India,22.0,Chennai,Premium Economy
+FL190,Air India,118.0,Jaipur,Premium Economy
+FL191,IndiGo,126.0,Kolkata,Economy
+FL192,Vistara,54.0,Kolkata,Premium Economy
+FL193,SpiceJet,71.0,Chennai,Business
+FL194,IndiGo,132.0,Hyderabad,Economy
+FL195,Air India,104.0,Goa,Business
+FL196,Air India,176.0,Goa,Business
+FL197,Go First,125.0,Goa,Economy
+FL198,IndiGo,75.0,Hyderabad,Premium Economy
+FL199,Go First,62.0,Chennai,Business
+FL200,Akasa Air,94.0,Goa,Business
+FL201,Akasa Air,88.0,Jaipur,Business
+FL202,Akasa Air,84.0,Kolkata,Business
+FL203,Vistara,69.0,Chennai,Premium Economy
+FL204,Air India,30.0,Hyderabad,Premium Economy
+FL205,IndiGo,137.0,Bangalore,Economy
+FL206,Air India,123.0,Chennai,Business
+FL207,Akasa Air,134.0,Chennai,Economy
+FL208,Air India,75.0,Hyderabad,Premium Economy
+FL209,Air India,77.0,Delhi,Business
+FL210,Akasa Air,32.0,Chennai,Economy
+FL211,IndiGo,141.0,Chennai,Business
+FL212,Air India,163.0,Goa,Economy
+FL213,IndiGo,146.0,Chennai,Premium Economy
+FL214,Vistara,112.0,Kolkata,Economy
+FL215,IndiGo,64.0,Goa,Economy
+FL216,IndiGo,102.0,Goa,Economy
+FL217,Akasa Air,161.0,Delhi,Economy
+FL218,Air India,144.0,Chennai,Economy
+FL219,Air India,30.0,Jaipur,Business
+FL220,Akasa Air,158.0,Hyderabad,Business
+FL221,Vistara,115.0,Goa,Premium Economy
+FL222,Akasa Air,109.0,Chennai,Business
+FL223,Akasa Air,15.0,Mumbai,Economy
+FL224,Go First,54.0,Chennai,Business
+FL225,IndiGo,40.0,Hyderabad,Economy
+FL226,Akasa Air,19.0,Bangalore,Economy
+FL227,Vistara,115.0,Goa,Premium Economy
+FL228,IndiGo,59.0,Chennai,Business
+FL229,SpiceJet,179.0,Goa,Economy
+FL230,Go First,59.0,Chennai,Business
+FL231,Akasa Air,169.0,Hyderabad,Premium Economy
+FL232,IndiGo,139.0,Hyderabad,Business
+FL233,Air India,68.0,Bangalore,Economy
+FL234,IndiGo,42.0,Chennai,Business
+FL235,Go First,145.0,Chennai,Premium Economy
+FL236,IndiGo,119.0,Chennai,Business
+FL237,Vistara,69.0,Goa,Premium Economy
+FL238,IndiGo,153.0,Delhi,Premium Economy
+FL239,Go First,82.0,Chennai,Economy
+FL240,IndiGo,58.0,Delhi,Business
+FL241,SpiceJet,147.0,Delhi,Economy
+FL242,Vistara,132.0,Goa,Premium Economy
+FL243,Air India,149.0,Jaipur,Business
+FL244,Vistara,23.0,Goa,Premium Economy
+FL245,Vistara,85.0,Kolkata,Business
+FL246,IndiGo,41.0,Kolkata,Premium Economy
+FL247,Go First,126.0,Chennai,Business
+FL248,Vistara,140.0,Delhi,Premium Economy
+FL249,IndiGo,80.0,Chennai,Premium Economy
+FL036,Akasa Air,68.0,Kolkata,Economy

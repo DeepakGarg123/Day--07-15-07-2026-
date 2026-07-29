@@ -1,0 +1,251 @@
+Song,Artist,Genre,Duration,Streams,Release_Year
+Song_1,Taylor Swift,Pop,309.0,2317113.0,2018
+Song_2,Shreya Ghoshal,Rock,308.0,869791.0,2025
+Song_3,Taylor Swift,Punjabi,228.0,276612.0,2015
+Song_4,Taylor Swift,Rock,179.0,4249227.0,2024
+Song_5,Arijit Singh,Punjabi,170.0,4581300.0,2021
+Song_6,Shreya Ghoshal,Classical,270.0,2343632.0,2015
+Song_7,Ed Sheeran,Bollywood,228.0,2864228.0,2019
+Song_8,Ed Sheeran,Rock,315.0,2833559.0,2016
+Song_9,Taylor Swift,Classical,144.0,3021337.0,2020
+Song_10,Diljit Dosanjh,Jazz,131.0,3863935.0,2023
+Song_11,Taylor Swift,Classical,140.0,4640852.0,2019
+Song_12,The Weeknd,Punjabi,169.0,593470.0,2015
+Song_13,Shreya Ghoshal,Jazz,194.0,679343.0,2018
+Song_14,Taylor Swift,Classical,191.0,3813481.0,2025
+Song_15,The Weeknd,Rock,214.0,2990226.0,2018
+Song_16,Diljit Dosanjh,Bollywood,359.0,608967.0,2024
+Song_17,Ed Sheeran,Punjabi,306.0,2063622.0,2017
+Song_18,Adele,Classical,189.0,4682033.0,2018
+Song_19,The Weeknd,Jazz,316.0,479241.0,2018
+Song_20,Arijit Singh,Jazz,200.0,3375214.0,2019
+Song_21,Taylor Swift,Rock,353.0,,2026
+Song_22,The Weeknd,Rock,287.0,4197855.0,2021
+Song_23,Adele,Rock,187.0,1181304.0,2018
+Song_24,Diljit Dosanjh,Bollywood,269.0,3603963.0,2024
+Song_25,Imagine Dragons,Hip-Hop,176.0,1170410.0,2023
+Song_26,Adele,Pop,313.0,405240.0,2016
+Song_27,Ed Sheeran,Bollywood,160.0,3551334.0,2024
+Song_28,Taylor Swift,Classical,217.0,3936287.0,2023
+Song_29,Diljit Dosanjh,Punjabi,340.0,106309.0,2025
+Song_30,Taylor Swift,Bollywood,346.0,4514433.0,2019
+Song_31,The Weeknd,Pop,195.0,3657075.0,2017
+Song_32,Adele,Pop,304.0,2219467.0,2023
+Song_33,Ed Sheeran,Punjabi,353.0,902638.0,2025
+Song_34,Diljit Dosanjh,Jazz,283.0,4268584.0,2024
+Song_35,Shreya Ghoshal,Rock,215.0,1365171.0,2023
+Song_36,Arijit Singh,Punjabi,202.0,4108721.0,2015
+Song_37,Taylor Swift,Hip-Hop,344.0,2589615.0,2018
+Song_38,Arijit Singh,Rock,344.0,4769334.0,2016
+Song_39,Taylor Swift,Bollywood,244.0,590596.0,2023
+Song_40,Ed Sheeran,Rock,288.0,3996957.0,2023
+Song_41,Ed Sheeran,Hip-Hop,255.0,3559538.0,2018
+Song_42,Shreya Ghoshal,Bollywood,199.0,3356989.0,2025
+Song_43,The Weeknd,Classical,350.0,4351740.0,2022
+Song_44,Taylor Swift,Rock,177.0,547088.0,2020
+Song_45,Arijit Singh,Punjabi,261.0,1940342.0,2024
+Song_46,Shreya Ghoshal,Pop,138.0,503868.0,2018
+Song_47,Taylor Swift,Pop,340.0,2781835.0,2016
+Song_48,Shreya Ghoshal,Hip-Hop,291.0,4081951.0,2018
+Song_49,Ed Sheeran,Bollywood,359.0,4800256.0,2024
+Song_50,Adele,Rock,320.0,3977584.0,2021
+Song_51,Shreya Ghoshal,Pop,144.0,3625919.0,2020
+Song_52,Imagine Dragons,Classical,239.0,464420.0,2025
+Song_53,Taylor Swift,Pop,223.0,2856276.0,2016
+Song_54,Shreya Ghoshal,Rock,168.0,4508690.0,2022
+Song_55,Ed Sheeran,Classical,166.0,2346606.0,2022
+Song_56,Shreya Ghoshal,Jazz,356.0,642374.0,2022
+Song_57,Taylor Swift,Pop,286.0,4544780.0,2015
+Song_58,Taylor Swift,Jazz,337.0,1992894.0,2017
+Song_59,Imagine Dragons,Classical,243.0,1803042.0,2021
+Song_60,Arijit Singh,Rock,217.0,28080.0,2021
+Song_61,Diljit Dosanjh,Jazz,320.0,3826886.0,2019
+Song_62,Imagine Dragons,Bollywood,307.0,4672122.0,2025
+Song_63,Adele,Rock,168.0,2498965.0,2018
+Song_64,Arijit Singh,Punjabi,308.0,4558263.0,2015
+Song_65,The Weeknd,Pop,132.0,4910436.0,2022
+Song_66,Ed Sheeran,Pop,250.0,682023.0,2017
+Song_67,Taylor Swift,Punjabi,137.0,1983033.0,2021
+Song_68,Taylor Swift,Punjabi,183.0,4866325.0,2024
+Song_69,Arijit Singh,Punjabi,140.0,3526713.0,2025
+Song_70,The Weeknd,Hip-Hop,172.0,2645565.0,2018
+Song_71,Diljit Dosanjh,Classical,153.0,2526557.0,2022
+Song_72,The Weeknd,Jazz,359.0,618535.0,2015
+Song_73,Adele,Punjabi,264.0,848703.0,2016
+Song_74,Shreya Ghoshal,Punjabi,187.0,1121126.0,2020
+Song_75,Taylor Swift,Rock,214.0,2400647.0,2017
+Song_76,Adele,,259.0,2547697.0,2024
+Song_77,Arijit Singh,Bollywood,329.0,4662341.0,2019
+Song_78,Taylor Swift,Rock,187.0,978285.0,2016
+Song_79,Ed Sheeran,Hip-Hop,192.0,1776889.0,2026
+Song_80,The Weeknd,Rock,295.0,2224457.0,2023
+Song_81,Adele,Hip-Hop,351.0,436132.0,2016
+Song_82,Imagine Dragons,Jazz,190.0,379826.0,2015
+Song_83,The Weeknd,Jazz,153.0,2207440.0,2017
+Song_84,Adele,Punjabi,300.0,3597697.0,2023
+Song_85,Arijit Singh,Pop,139.0,1260357.0,2023
+Song_86,Arijit Singh,Jazz,214.0,4896444.0,2023
+Song_87,Ed Sheeran,Classical,152.0,360885.0,2019
+Song_88,The Weeknd,Jazz,340.0,344662.0,2020
+Song_89,Shreya Ghoshal,Bollywood,183.0,872295.0,2020
+Song_90,Imagine Dragons,Punjabi,311.0,1306487.0,2018
+Song_91,Ed Sheeran,Jazz,327.0,1495222.0,2021
+Song_92,Arijit Singh,Rock,308.0,2796573.0,2021
+Song_93,Shreya Ghoshal,Hip-Hop,160.0,916771.0,2021
+Song_94,Arijit Singh,Jazz,240.0,1875909.0,2018
+Song_95,Adele,Hip-Hop,198.0,1919209.0,2018
+Song_96,Arijit Singh,Bollywood,169.0,3352574.0,2020
+Song_97,Diljit Dosanjh,Jazz,137.0,2351470.0,2020
+Song_98,Imagine Dragons,Bollywood,335.0,4508103.0,2020
+Song_99,Arijit Singh,Pop,344.0,2201231.0,2017
+Song_100,Diljit Dosanjh,Pop,147.0,3655385.0,2020
+Song_101,The Weeknd,Classical,275.0,4300127.0,2016
+Song_102,Imagine Dragons,Punjabi,168.0,2146767.0,2015
+Song_103,Imagine Dragons,Pop,253.0,4526862.0,2025
+Song_104,Shreya Ghoshal,Hip-Hop,230.0,596982.0,2025
+Song_105,The Weeknd,Punjabi,200.0,1055432.0,2026
+Song_106,Diljit Dosanjh,Punjabi,199.0,3435848.0,2020
+Song_107,Imagine Dragons,Bollywood,195.0,4660748.0,2017
+Song_108,Shreya Ghoshal,Classical,290.0,3190501.0,2025
+Song_109,Ed Sheeran,Punjabi,265.0,2534550.0,2021
+Song_110,Arijit Singh,Hip-Hop,193.0,1773140.0,2021
+Song_111,The Weeknd,Classical,233.0,3719105.0,2025
+Song_112,Shreya Ghoshal,Punjabi,241.0,1433474.0,2025
+Song_113,Taylor Swift,Hip-Hop,251.0,2821762.0,2016
+Song_114,Shreya Ghoshal,Bollywood,199.0,1894422.0,2018
+Song_115,Ed Sheeran,Pop,131.0,2063888.0,2022
+Song_116,Taylor Swift,Classical,226.0,4839077.0,2018
+Song_117,Imagine Dragons,Classical,222.0,2056689.0,2017
+Song_118,Arijit Singh,Jazz,340.0,904119.0,2021
+Song_119,Shreya Ghoshal,Rock,325.0,4354944.0,2022
+Song_120,Arijit Singh,Punjabi,183.0,1028029.0,2022
+Song_121,Ed Sheeran,Jazz,238.0,4465457.0,2023
+Song_122,The Weeknd,Jazz,348.0,3722574.0,2024
+Song_123,Imagine Dragons,Jazz,352.0,4605883.0,2022
+Song_124,Ed Sheeran,Bollywood,340.0,3991857.0,2022
+Song_125,Diljit Dosanjh,Jazz,183.0,2336256.0,2023
+Song_126,Adele,Bollywood,181.0,2313490.0,2022
+Song_127,Taylor Swift,Bollywood,193.0,1977074.0,2019
+Song_128,The Weeknd,Hip-Hop,348.0,4541125.0,2016
+Song_129,Ed Sheeran,Rock,179.0,3223132.0,2026
+Song_130,Ed Sheeran,Bollywood,174.0,548790.0,2021
+Song_131,Imagine Dragons,Hip-Hop,258.0,3918456.0,2021
+Song_132,Arijit Singh,Rock,333.0,3534419.0,2021
+Song_133,Arijit Singh,Jazz,345.0,4839240.0,2021
+Song_134,Adele,Pop,210.0,2514944.0,2021
+Song_135,Imagine Dragons,Punjabi,311.0,4591289.0,2024
+Song_136,Shreya Ghoshal,Classical,176.0,2299547.0,2021
+Song_137,Adele,Pop,219.0,2829658.0,2025
+Song_138,Imagine Dragons,Bollywood,162.0,3930752.0,2017
+Song_139,Arijit Singh,Classical,271.0,4744463.0,2025
+Song_140,Arijit Singh,Pop,284.0,3605464.0,2017
+Song_141,Adele,Rock,,2192349.0,2021
+Song_142,The Weeknd,Rock,236.0,2751781.0,2020
+Song_143,Imagine Dragons,Hip-Hop,312.0,3546342.0,2019
+Song_144,Taylor Swift,Classical,124.0,4534974.0,2015
+Song_145,The Weeknd,Rock,286.0,585612.0,2025
+Song_146,Arijit Singh,Jazz,127.0,2084362.0,2018
+Song_147,Arijit Singh,Punjabi,159.0,2011060.0,2017
+Song_148,Adele,Bollywood,149.0,4740919.0,2018
+Song_149,Adele,Bollywood,185.0,3104517.0,2017
+Song_150,Taylor Swift,Jazz,329.0,1383767.0,2019
+Song_151,Taylor Swift,Punjabi,126.0,2626887.0,2024
+Song_152,Imagine Dragons,Classical,303.0,1673710.0,2016
+Song_153,Shreya Ghoshal,Pop,298.0,2539858.0,2025
+Song_154,Taylor Swift,Jazz,264.0,354512.0,2020
+Song_155,Imagine Dragons,Bollywood,214.0,588451.0,2023
+Song_156,The Weeknd,Pop,337.0,3533708.0,2022
+Song_157,Taylor Swift,Classical,212.0,3866573.0,2026
+Song_158,Ed Sheeran,Classical,165.0,4386728.0,2025
+Song_159,Diljit Dosanjh,Punjabi,326.0,4524521.0,2022
+Song_160,Adele,Classical,331.0,4980037.0,2019
+Song_161,The Weeknd,Jazz,182.0,736981.0,2019
+Song_162,Adele,Rock,312.0,3908257.0,2024
+Song_163,Imagine Dragons,Hip-Hop,127.0,4156543.0,2020
+Song_164,Ed Sheeran,Classical,174.0,2986487.0,2019
+Song_165,The Weeknd,Hip-Hop,345.0,2327508.0,2023
+Song_166,Arijit Singh,Punjabi,168.0,728173.0,2018
+Song_167,Imagine Dragons,Classical,262.0,2025983.0,2026
+Song_168,Adele,Bollywood,302.0,4127307.0,2022
+Song_169,Arijit Singh,Pop,195.0,1868885.0,2021
+Song_170,Shreya Ghoshal,Hip-Hop,289.0,4888441.0,2020
+Song_171,Adele,Punjabi,255.0,2893646.0,2021
+Song_172,The Weeknd,Hip-Hop,299.0,3816291.0,2019
+Song_173,Diljit Dosanjh,Hip-Hop,179.0,1022134.0,2026
+Song_174,Shreya Ghoshal,Hip-Hop,150.0,4505152.0,2026
+Song_175,Ed Sheeran,Rock,175.0,4071752.0,2019
+Song_176,Diljit Dosanjh,Pop,333.0,1638376.0,2019
+Song_177,Shreya Ghoshal,Hip-Hop,165.0,2545604.0,2015
+Song_178,Ed Sheeran,Hip-Hop,131.0,467397.0,2023
+Song_179,Diljit Dosanjh,Bollywood,152.0,4127788.0,2016
+Song_180,Arijit Singh,Punjabi,192.0,3947586.0,2022
+Song_181,Adele,Hip-Hop,167.0,440979.0,2019
+Song_182,Adele,Pop,330.0,558140.0,2021
+Song_183,Adele,Pop,267.0,459705.0,2017
+Song_184,Ed Sheeran,Jazz,264.0,2558757.0,2016
+Song_185,Shreya Ghoshal,Pop,262.0,3501120.0,2024
+Song_186,Shreya Ghoshal,Jazz,253.0,3200842.0,2022
+Song_187,Adele,Hip-Hop,340.0,4946906.0,2021
+Song_188,Diljit Dosanjh,Punjabi,278.0,515248.0,2024
+Song_189,Taylor Swift,Jazz,173.0,1780207.0,2019
+Song_190,Taylor Swift,Rock,181.0,1468053.0,2023
+Song_191,Taylor Swift,Rock,120.0,3436893.0,2022
+Song_192,Adele,Hip-Hop,128.0,1951763.0,2019
+Song_193,Diljit Dosanjh,Bollywood,340.0,3818690.0,2016
+Song_194,Shreya Ghoshal,Hip-Hop,321.0,4957513.0,2025
+Song_195,Shreya Ghoshal,Classical,149.0,4578120.0,2018
+Song_196,Ed Sheeran,Hip-Hop,331.0,1203164.0,2016
+Song_197,Arijit Singh,Rock,322.0,2590434.0,2024
+Song_198,Diljit Dosanjh,Classical,151.0,3941723.0,2026
+Song_199,Diljit Dosanjh,Bollywood,223.0,2293766.0,2023
+Song_200,Adele,Classical,140.0,344376.0,2021
+Song_201,The Weeknd,Punjabi,184.0,226970.0,2016
+Song_202,Shreya Ghoshal,Bollywood,334.0,4835119.0,2024
+Song_203,Arijit Singh,Jazz,292.0,2270822.0,2024
+Song_204,Arijit Singh,Jazz,313.0,1479606.0,2022
+Song_205,Adele,Hip-Hop,166.0,4920100.0,2021
+Song_206,Adele,Pop,240.0,2928908.0,2021
+Song_207,The Weeknd,Hip-Hop,291.0,887447.0,2017
+Song_208,The Weeknd,Classical,297.0,4166295.0,2019
+Song_209,Imagine Dragons,Jazz,314.0,4624544.0,2015
+Song_210,Adele,Pop,200.0,2127275.0,2020
+Song_211,Taylor Swift,Jazz,223.0,4326746.0,2015
+Song_212,Adele,Classical,133.0,1583556.0,2023
+Song_213,The Weeknd,Punjabi,313.0,4191663.0,2025
+Song_214,Adele,Jazz,133.0,1717570.0,2019
+Song_215,Ed Sheeran,Hip-Hop,232.0,4076057.0,2016
+Song_216,Arijit Singh,Bollywood,275.0,2017372.0,2026
+Song_217,Ed Sheeran,Hip-Hop,261.0,124709.0,2023
+Song_218,Imagine Dragons,Pop,177.0,961780.0,2022
+Song_219,Taylor Swift,Bollywood,333.0,1301603.0,2022
+Song_220,Diljit Dosanjh,Punjabi,300.0,2303654.0,2021
+Song_221,Adele,Classical,182.0,3841802.0,2023
+Song_222,Ed Sheeran,Classical,168.0,4273433.0,2026
+Song_223,Ed Sheeran,Jazz,137.0,2327331.0,2021
+Song_224,The Weeknd,Jazz,249.0,2251206.0,2015
+Song_225,Diljit Dosanjh,Bollywood,196.0,4933590.0,2024
+Song_226,Adele,Jazz,158.0,3755911.0,2023
+Song_227,Adele,Hip-Hop,205.0,4639818.0,2023
+Song_228,Imagine Dragons,Classical,358.0,2709264.0,2018
+Song_229,Shreya Ghoshal,Punjabi,218.0,1969263.0,2021
+Song_230,Arijit Singh,Hip-Hop,310.0,3977612.0,2026
+Song_231,Imagine Dragons,Classical,289.0,1285951.0,2022
+Song_232,Arijit Singh,Rock,248.0,4960792.0,2020
+Song_233,Taylor Swift,Jazz,336.0,3703556.0,2016
+Song_234,Adele,Pop,304.0,1219263.0,2021
+Song_235,Ed Sheeran,Pop,240.0,2233172.0,2020
+Song_236,Imagine Dragons,Bollywood,140.0,2766207.0,2025
+Song_237,Imagine Dragons,Hip-Hop,280.0,4103200.0,2023
+Song_238,Arijit Singh,Punjabi,137.0,1979395.0,2025
+Song_239,Diljit Dosanjh,Rock,311.0,768156.0,2021
+Song_240,Taylor Swift,Jazz,282.0,853115.0,2022
+Song_241,Ed Sheeran,Bollywood,196.0,252827.0,2015
+Song_242,The Weeknd,Jazz,134.0,2470947.0,2020
+Song_243,The Weeknd,Classical,157.0,2058476.0,2023
+Song_244,Imagine Dragons,Punjabi,294.0,1520426.0,2017
+Song_245,Ed Sheeran,Pop,276.0,3219014.0,2024
+Song_246,Shreya Ghoshal,Classical,353.0,4901876.0,2017
+Song_247,Shreya Ghoshal,Classical,283.0,2140516.0,2022
+Song_248,Diljit Dosanjh,Bollywood,122.0,3912827.0,2019
+Song_249,Ed Sheeran,Pop,233.0,2908814.0,2024
+Song_31,The Weeknd,Pop,195.0,3657075.0,2017

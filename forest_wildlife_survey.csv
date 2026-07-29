@@ -1,0 +1,201 @@
+Animal,Species,Weight,Age,Forest
+Elephant,Mammal,445.4,8,Kaziranga
+Leopard,Reptile,63.3,24,Sundarbans
+Elephant,Reptile,254.3,1,Jim Corbett
+Deer,Mammal,304.2,1,Sundarbans
+Deer,Reptile,390.6,18,Gir
+Deer,Bird,354.4,1,Kaziranga
+Wolf,Bird,168.2,7,Ranthambore
+Elephant,Mammal,229.2,12,Ranthambore
+Wild Boar,Bird,484.7,24,Gir
+Rabbit,Mammal,583.9,13,Jim Corbett
+Rabbit,Bird,498.0,20,Ranthambore
+Wild Boar,Mammal,423.3,2,Bandipur
+Deer,Bird,591.2,8,Jim Corbett
+Wolf,Bird,273.1,12,Kaziranga
+Fox,Bird,127.3,9,Bandipur
+Elephant,Reptile,381.7,18,Bandipur
+Deer,Mammal,278.4,9,Bandipur
+Rabbit,Mammal,411.4,25,Jim Corbett
+Deer,Mammal,483.4,13,Ranthambore
+Elephant,Mammal,548.1,19,Bandipur
+Fox,Mammal,,13,Bandipur
+Monkey,Mammal,160.4,8,Bandipur
+Rabbit,Reptile,159.1,19,Gir
+Wild Boar,Bird,218.5,5,Sundarbans
+Monkey,Mammal,454.0,4,Kaziranga
+Leopard,Reptile,254.5,3,Gir
+Wolf,Reptile,597.7,17,Ranthambore
+Rabbit,Mammal,408.8,4,Bandipur
+Rabbit,Bird,461.6,11,Jim Corbett
+Bear,Bird,96.6,1,Bandipur
+Bear,Reptile,457.7,17,Jim Corbett
+Bear,Reptile,305.6,7,Kaziranga
+Fox,Mammal,324.5,25,Sundarbans
+Tiger,Reptile,195.8,1,Jim Corbett
+Fox,Bird,145.2,8,Sundarbans
+Elephant,Mammal,439.7,3,Sundarbans
+Leopard,Mammal,396.5,18,Kaziranga
+Bear,Reptile,523.7,14,Kaziranga
+Rabbit,Reptile,414.5,23,Ranthambore
+Wolf,Reptile,390.6,15,Sundarbans
+Monkey,Mammal,150.2,3,Ranthambore
+Tiger,Reptile,333.2,19,Kaziranga
+Tiger,Mammal,425.3,2,Kaziranga
+Elephant,Mammal,516.1,3,Sundarbans
+Deer,Bird,402.0,7,Sundarbans
+Leopard,Reptile,561.4,19,Sundarbans
+Monkey,Mammal,471.2,14,Kaziranga
+Elephant,Mammal,396.1,12,Gir
+Wolf,Bird,518.6,2,Bandipur
+Elephant,Mammal,242.8,11,Jim Corbett
+Deer,Mammal,115.7,15,Kaziranga
+Wolf,Mammal,168.6,8,Jim Corbett
+Monkey,Reptile,60.5,21,Sundarbans
+Tiger,Mammal,556.0,8,Kaziranga
+Wolf,Bird,289.9,13,Jim Corbett
+Leopard,Bird,3.3,13,Ranthambore
+Monkey,Bird,255.0,24,Sundarbans
+Monkey,Mammal,115.6,7,Jim Corbett
+Wild Boar,Reptile,326.2,24,Ranthambore
+Tiger,Mammal,351.3,17,Sundarbans
+Leopard,Mammal,576.5,3,Kaziranga
+Elephant,Reptile,42.6,8,Gir
+Elephant,Reptile,149.2,20,Jim Corbett
+Wild Boar,Mammal,252.7,19,Sundarbans
+Rabbit,Bird,561.0,7,Bandipur
+Fox,Mammal,160.8,5,Bandipur
+Bear,Bird,191.1,25,Jim Corbett
+Tiger,Bird,373.5,19,Jim Corbett
+Elephant,Reptile,129.5,9,Kaziranga
+Fox,Mammal,527.8,12,Ranthambore
+Leopard,Bird,500.6,23,Ranthambore
+Wild Boar,Reptile,318.3,22,Sundarbans
+Bear,Reptile,63.9,5,Ranthambore
+Elephant,Mammal,446.0,5,Ranthambore
+Bear,Reptile,128.0,11,Kaziranga
+Bear,Reptile,294.1,2,Jim Corbett
+Wolf,Bird,28.4,11,Kaziranga
+Bear,Mammal,445.3,18,Bandipur
+Wolf,Reptile,7.8,3,Bandipur
+Leopard,Reptile,23.5,12,Sundarbans
+Rabbit,,259.0,2,Ranthambore
+Fox,Mammal,539.6,7,Bandipur
+Deer,Reptile,63.5,25,Sundarbans
+Wolf,Reptile,450.2,8,Kaziranga
+Leopard,Bird,16.8,24,Ranthambore
+Wolf,Reptile,518.7,8,Ranthambore
+Leopard,Reptile,66.6,2,Gir
+Deer,Mammal,490.3,15,Ranthambore
+Bear,Mammal,135.3,22,Kaziranga
+Wolf,Bird,168.6,3,Ranthambore
+Fox,Reptile,306.6,22,Sundarbans
+Fox,Mammal,71.0,9,Kaziranga
+Wild Boar,Bird,24.9,20,Gir
+Fox,Reptile,472.3,14,Sundarbans
+Rabbit,Mammal,232.3,19,Kaziranga
+Bear,Mammal,425.9,1,Sundarbans
+Rabbit,Reptile,432.2,24,Bandipur
+Deer,Bird,259.9,22,Ranthambore
+Wild Boar,Bird,398.7,4,Bandipur
+Bear,Reptile,187.0,14,Ranthambore
+Wolf,Reptile,178.8,5,Kaziranga
+Wolf,Reptile,564.3,22,Bandipur
+Leopard,Reptile,342.3,13,Sundarbans
+Tiger,Bird,173.6,14,Sundarbans
+Wild Boar,Reptile,194.7,15,Gir
+Deer,Reptile,285.0,24,Kaziranga
+Elephant,Bird,310.2,21,Sundarbans
+Fox,Mammal,491.4,25,Kaziranga
+Bear,Mammal,484.3,5,Jim Corbett
+Tiger,Mammal,590.4,20,Jim Corbett
+Monkey,Bird,531.9,19,Kaziranga
+Wolf,Bird,241.0,5,Bandipur
+Tiger,Mammal,467.5,8,Kaziranga
+Rabbit,Bird,32.0,8,Jim Corbett
+Monkey,Mammal,481.2,22,Sundarbans
+Rabbit,Reptile,191.7,25,Gir
+Wild Boar,Reptile,535.4,14,Sundarbans
+Monkey,Mammal,446.7,16,Gir
+Bear,Mammal,504.2,9,Sundarbans
+Monkey,Reptile,145.1,15,Jim Corbett
+Bear,Mammal,164.5,11,Sundarbans
+Elephant,Mammal,92.2,13,Bandipur
+Leopard,Reptile,129.9,14,Gir
+Fox,Reptile,280.6,2,Kaziranga
+Wolf,Bird,543.1,19,Bandipur
+Tiger,Reptile,229.5,1,Ranthambore
+Bear,Bird,512.4,14,Sundarbans
+Rabbit,Reptile,538.9,16,Kaziranga
+Bear,Bird,292.4,13,Ranthambore
+Wolf,Reptile,100.7,15,Kaziranga
+Wild Boar,Reptile,18.1,13,Sundarbans
+Wild Boar,Reptile,18.2,21,Gir
+Leopard,Bird,110.7,9,Gir
+Fox,Mammal,273.9,11,Gir
+Bear,Bird,152.9,3,Gir
+Tiger,Reptile,324.6,12,Kaziranga
+Elephant,Reptile,26.1,1,Kaziranga
+Deer,Mammal,373.6,8,Kaziranga
+Monkey,Reptile,70.4,7,Gir
+Bear,Bird,102.3,20,Bandipur
+Elephant,Mammal,578.9,4,Sundarbans
+Tiger,Bird,346.3,13,Gir
+Deer,Mammal,356.1,21,Kaziranga
+Elephant,Reptile,463.9,22,Sundarbans
+Elephant,Reptile,470.0,12,Sundarbans
+Wolf,Reptile,223.6,17,Bandipur
+Fox,Mammal,510.0,16,Jim Corbett
+Wolf,Bird,382.1,15,Bandipur
+Leopard,Bird,107.3,17,Bandipur
+Bear,Reptile,485.3,18,Gir
+Monkey,Bird,495.8,19,Ranthambore
+Fox,Mammal,498.8,3,Ranthambore
+Monkey,Mammal,450.8,19,Sundarbans
+Wolf,Bird,19.2,11,Kaziranga
+Monkey,Mammal,214.2,9,Ranthambore
+Bear,Reptile,421.3,9,Sundarbans
+Tiger,Reptile,568.9,3,Kaziranga
+Wolf,Bird,334.0,8,Bandipur
+Monkey,Reptile,427.7,15,Jim Corbett
+Elephant,Bird,134.5,23,Kaziranga
+Bear,Reptile,349.8,16,Sundarbans
+Rabbit,Bird,256.5,24,Sundarbans
+Fox,Bird,422.3,9,Ranthambore
+Bear,Mammal,74.2,7,Ranthambore
+Elephant,Reptile,322.4,25,Bandipur
+Leopard,Mammal,131.4,16,Ranthambore
+Wild Boar,Reptile,358.9,4,Kaziranga
+Bear,Mammal,217.8,10,Jim Corbett
+Rabbit,Mammal,166.0,2,Sundarbans
+Bear,Reptile,566.6,21,Gir
+Elephant,Mammal,345.3,16,Gir
+Monkey,Bird,112.2,2,Ranthambore
+Monkey,Mammal,493.6,13,Gir
+Elephant,Reptile,378.4,2,Kaziranga
+Leopard,Reptile,569.6,3,Kaziranga
+Elephant,Reptile,459.1,20,Sundarbans
+Wild Boar,Mammal,465.9,13,Gir
+Monkey,Bird,516.4,14,Ranthambore
+Wild Boar,Reptile,38.0,24,Jim Corbett
+Deer,Reptile,128.2,22,Jim Corbett
+Leopard,Mammal,105.9,3,Kaziranga
+Tiger,Bird,271.4,20,Gir
+Bear,Mammal,140.4,23,Ranthambore
+Monkey,Mammal,413.1,9,Bandipur
+Wild Boar,Reptile,482.7,7,Gir
+Elephant,Reptile,136.4,5,Ranthambore
+Leopard,Mammal,37.7,10,Sundarbans
+Wild Boar,Bird,264.6,15,Bandipur
+Bear,Reptile,242.7,9,Sundarbans
+Rabbit,Bird,263.8,20,Jim Corbett
+Wolf,Reptile,194.7,9,Jim Corbett
+Elephant,Mammal,577.2,19,Sundarbans
+Tiger,Reptile,493.2,19,Jim Corbett
+Leopard,Bird,312.3,15,Ranthambore
+Leopard,Reptile,262.7,16,Jim Corbett
+Monkey,Bird,246.2,11,Bandipur
+Elephant,Mammal,199.2,23,Gir
+Bear,Reptile,567.2,25,Sundarbans
+Tiger,Bird,54.7,9,Ranthambore
+Elephant,Mammal,439.7,3,Sundarbans

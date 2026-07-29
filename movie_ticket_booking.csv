@@ -1,0 +1,301 @@
+Booking_ID,Movie,Seat_Type,Ticket_Price,Number_of_Tickets,Booking_Day
+B001,Jawan,Silver,713.0,4,Tuesday
+B002,Animal,Silver,328.0,7,Monday
+B003,War 2,Silver,597.0,4,Friday
+B004,War 2,Gold,1009.0,4,Thursday
+B005,Pushpa,Silver,476.0,7,Wednesday
+B006,Pushpa,Gold,590.0,6,Monday
+B007,Jawan,VIP,348.0,6,Sunday
+B008,Avatar,Platinum,238.0,8,Friday
+B009,Jawan,VIP,311.0,5,Sunday
+B010,Avatar,Gold,292.0,1,Saturday
+B011,KGF 2,Platinum,313.0,4,Sunday
+B012,Jawan,VIP,719.0,8,Saturday
+B013,Avatar,Gold,908.0,6,Tuesday
+B014,Pushpa,Silver,500.0,4,Tuesday
+B015,Dune 2,VIP,702.0,4,Saturday
+B016,Avatar,Silver,619.0,1,Sunday
+B017,Avatar,VIP,698.0,2,Tuesday
+B018,Avatar,Gold,1172.0,7,Saturday
+B019,Dune 2,Gold,692.0,3,Tuesday
+B020,Pushpa,VIP,967.0,6,Tuesday
+B021,Animal,VIP,336.0,1,Sunday
+B022,Jawan,Gold,477.0,7,Friday
+B023,Jawan,VIP,931.0,8,Friday
+B024,Pushpa,Silver,384.0,5,Sunday
+B025,Avatar,Silver,751.0,7,Tuesday
+B026,Dune 2,Silver,689.0,3,Friday
+B027,Jawan,Platinum,1189.0,4,Tuesday
+B028,Avatar,Gold,151.0,6,Thursday
+B029,War 2,Silver,893.0,5,Tuesday
+B030,War 2,Gold,311.0,2,Saturday
+B031,Dune 2,Silver,,3,Saturday
+B032,Dune 2,Gold,692.0,7,Tuesday
+B033,KGF 2,Platinum,967.0,6,Thursday
+B034,Dune 2,Silver,657.0,4,Monday
+B035,Avatar,Silver,621.0,4,Monday
+B036,Jawan,Silver,618.0,2,Monday
+B037,Avatar,Silver,637.0,5,Saturday
+B038,Dune 2,Gold,420.0,8,Tuesday
+B039,Dune 2,VIP,539.0,2,Monday
+B040,Mission Impossible,Platinum,1017.0,7,Thursday
+B041,War 2,Silver,274.0,7,Saturday
+B042,Avatar,Silver,659.0,4,Tuesday
+B043,Dune 2,Gold,1014.0,3,Wednesday
+B044,Dune 2,Gold,304.0,8,Sunday
+B045,Jawan,Silver,180.0,2,Sunday
+B046,KGF 2,Gold,982.0,8,Thursday
+B047,KGF 2,VIP,270.0,3,Thursday
+B048,War 2,VIP,693.0,8,Wednesday
+B049,Mission Impossible,VIP,467.0,4,Wednesday
+B050,KGF 2,Silver,274.0,6,Monday
+B051,War 2,VIP,1179.0,3,Monday
+B052,Jawan,Gold,290.0,2,Saturday
+B053,KGF 2,VIP,395.0,4,Friday
+B054,War 2,Silver,1008.0,6,Wednesday
+B055,KGF 2,Platinum,638.0,5,Thursday
+B056,Animal,Platinum,1086.0,6,Sunday
+B057,Jawan,Silver,1088.0,2,Monday
+B058,KGF 2,Platinum,421.0,6,Monday
+B059,KGF 2,Platinum,733.0,3,Thursday
+B060,Pushpa,Silver,763.0,2,Tuesday
+B061,Pushpa,Silver,369.0,3,Wednesday
+B062,Pushpa,Gold,852.0,4,Saturday
+B063,Pushpa,VIP,664.0,1,Monday
+B064,Mission Impossible,Platinum,240.0,1,Wednesday
+B065,Animal,Platinum,480.0,8,Friday
+B066,Mission Impossible,Silver,379.0,2,Saturday
+B067,Animal,Silver,906.0,3,Thursday
+B068,Animal,Silver,781.0,6,Sunday
+B069,War 2,Platinum,580.0,4,Saturday
+B070,Jawan,Platinum,982.0,3,Tuesday
+B071,Animal,Gold,994.0,1,Tuesday
+B072,Avatar,VIP,658.0,5,Tuesday
+B073,Jawan,VIP,229.0,8,Tuesday
+B074,KGF 2,VIP,866.0,5,Sunday
+B075,KGF 2,Gold,198.0,4,Thursday
+B076,Avatar,Platinum,292.0,5,Wednesday
+B077,Mission Impossible,Platinum,206.0,2,Wednesday
+B078,Animal,Platinum,228.0,2,Friday
+B079,Mission Impossible,Platinum,792.0,7,Friday
+B080,Jawan,VIP,539.0,5,Monday
+B081,Mission Impossible,Silver,553.0,6,Thursday
+B082,Jawan,Platinum,792.0,2,Saturday
+B083,Pushpa,Platinum,986.0,6,Thursday
+B084,Pushpa,Gold,542.0,7,Saturday
+B085,Mission Impossible,Gold,766.0,7,Friday
+B086,War 2,Platinum,737.0,4,Thursday
+B087,Avatar,VIP,1054.0,8,Saturday
+B088,KGF 2,VIP,497.0,2,Wednesday
+B089,Avatar,Silver,631.0,5,Tuesday
+B090,KGF 2,Gold,200.0,1,Tuesday
+B091,Dune 2,Silver,1082.0,7,Saturday
+B092,KGF 2,VIP,1162.0,7,Tuesday
+B093,Animal,Silver,368.0,7,Tuesday
+B094,Animal,VIP,252.0,4,Sunday
+B095,Jawan,VIP,423.0,8,Saturday
+B096,Avatar,VIP,1183.0,7,Sunday
+B097,Dune 2,Gold,1122.0,8,Wednesday
+B098,KGF 2,Platinum,1142.0,4,Wednesday
+B099,Dune 2,Silver,735.0,4,Wednesday
+B100,Avatar,Platinum,315.0,3,Tuesday
+B101,KGF 2,VIP,462.0,4,Monday
+B102,Mission Impossible,VIP,827.0,8,Thursday
+B103,War 2,Gold,1010.0,7,Sunday
+B104,War 2,VIP,1126.0,1,Wednesday
+B105,Pushpa,VIP,1008.0,4,Thursday
+B106,KGF 2,Platinum,1042.0,8,Monday
+B107,Mission Impossible,Platinum,978.0,3,Sunday
+B108,Dune 2,Gold,205.0,7,Friday
+B109,War 2,Silver,1027.0,3,Sunday
+B110,Dune 2,Gold,252.0,5,Thursday
+B111,Avatar,Gold,1081.0,6,Wednesday
+B112,Mission Impossible,Platinum,1013.0,5,Sunday
+B113,Jawan,VIP,189.0,1,Wednesday
+B114,KGF 2,Silver,232.0,1,Tuesday
+B115,KGF 2,Silver,462.0,4,Tuesday
+B116,Dune 2,Silver,596.0,8,Saturday
+B117,Pushpa,Platinum,493.0,2,Sunday
+B118,Animal,Platinum,371.0,1,Wednesday
+B119,Mission Impossible,VIP,556.0,2,Friday
+B120,KGF 2,Silver,767.0,2,Sunday
+B121,War 2,,1027.0,6,Monday
+B122,Avatar,Silver,1010.0,8,Monday
+B123,Mission Impossible,Platinum,1091.0,3,Thursday
+B124,Animal,Platinum,1140.0,8,Thursday
+B125,Pushpa,Platinum,652.0,2,Wednesday
+B126,Dune 2,Gold,1101.0,7,Wednesday
+B127,War 2,VIP,815.0,3,Thursday
+B128,KGF 2,Platinum,679.0,6,Wednesday
+B129,Pushpa,Silver,541.0,2,Tuesday
+B130,Mission Impossible,VIP,642.0,8,Saturday
+B131,Dune 2,VIP,185.0,2,Wednesday
+B132,KGF 2,VIP,648.0,5,Saturday
+B133,Avatar,VIP,854.0,7,Saturday
+B134,Avatar,Platinum,1079.0,5,Wednesday
+B135,Pushpa,Gold,397.0,4,Wednesday
+B136,Jawan,Gold,542.0,4,Saturday
+B137,Dune 2,Platinum,729.0,2,Sunday
+B138,KGF 2,Platinum,615.0,6,Tuesday
+B139,Pushpa,Silver,409.0,5,Monday
+B140,War 2,Platinum,408.0,8,Monday
+B141,War 2,Platinum,1111.0,8,Thursday
+B142,Avatar,Gold,255.0,5,Sunday
+B143,Dune 2,Silver,283.0,7,Thursday
+B144,Jawan,Silver,460.0,3,Sunday
+B145,Pushpa,Silver,658.0,2,Friday
+B146,Mission Impossible,Gold,929.0,8,Thursday
+B147,Pushpa,VIP,775.0,1,Friday
+B148,Jawan,Gold,582.0,5,Saturday
+B149,Jawan,Gold,641.0,3,Friday
+B150,Jawan,Gold,155.0,7,Thursday
+B151,Dune 2,Platinum,216.0,4,Wednesday
+B152,Pushpa,VIP,295.0,4,Wednesday
+B153,KGF 2,VIP,385.0,4,Saturday
+B154,Animal,Platinum,441.0,2,Monday
+B155,Animal,Platinum,741.0,8,Monday
+B156,Dune 2,Platinum,974.0,5,Friday
+B157,Dune 2,VIP,314.0,1,Thursday
+B158,Avatar,Platinum,202.0,2,Tuesday
+B159,War 2,Platinum,232.0,3,Thursday
+B160,Dune 2,Platinum,521.0,7,Saturday
+B161,Dune 2,Silver,1112.0,6,Thursday
+B162,Avatar,Platinum,364.0,3,Wednesday
+B163,Mission Impossible,VIP,740.0,7,Sunday
+B164,War 2,VIP,330.0,6,Wednesday
+B165,Avatar,Silver,977.0,1,Saturday
+B166,Dune 2,VIP,261.0,4,Friday
+B167,Avatar,VIP,1055.0,1,Tuesday
+B168,Pushpa,Gold,739.0,8,Saturday
+B169,Dune 2,Silver,209.0,4,Saturday
+B170,Animal,Platinum,178.0,7,Monday
+B171,KGF 2,Silver,1095.0,2,Saturday
+B172,Animal,VIP,747.0,5,Thursday
+B173,Dune 2,VIP,649.0,8,Friday
+B174,Animal,VIP,540.0,3,Sunday
+B175,Jawan,Platinum,999.0,6,Sunday
+B176,Pushpa,Silver,729.0,5,Sunday
+B177,Dune 2,Gold,1064.0,8,Wednesday
+B178,Avatar,VIP,1082.0,6,Sunday
+B179,KGF 2,Gold,934.0,4,Sunday
+B180,Mission Impossible,Silver,801.0,8,Saturday
+B181,Mission Impossible,VIP,461.0,8,Monday
+B182,Animal,Platinum,355.0,8,Monday
+B183,Dune 2,Silver,445.0,7,Sunday
+B184,Animal,Silver,1111.0,5,Wednesday
+B185,Mission Impossible,Silver,822.0,7,Wednesday
+B186,Dune 2,Silver,290.0,4,Saturday
+B187,Pushpa,Gold,335.0,7,Monday
+B188,Jawan,VIP,490.0,5,Monday
+B189,War 2,Platinum,264.0,5,Wednesday
+B190,Avatar,VIP,448.0,4,Friday
+B191,Mission Impossible,Gold,498.0,3,Monday
+B192,Mission Impossible,Gold,1169.0,3,Tuesday
+B193,Dune 2,Platinum,1091.0,5,Saturday
+B194,War 2,VIP,739.0,3,Monday
+B195,Dune 2,Platinum,762.0,7,Saturday
+B196,Pushpa,VIP,768.0,4,Thursday
+B197,Dune 2,Silver,635.0,7,Friday
+B198,Avatar,Platinum,754.0,1,Sunday
+B199,Mission Impossible,Platinum,166.0,1,Friday
+B200,Dune 2,Platinum,621.0,6,Tuesday
+B201,KGF 2,Platinum,430.0,2,Saturday
+B202,War 2,Platinum,1052.0,1,Friday
+B203,Avatar,Gold,334.0,5,Wednesday
+B204,Mission Impossible,Gold,561.0,3,Sunday
+B205,Avatar,Platinum,486.0,5,Sunday
+B206,Dune 2,Platinum,843.0,2,Thursday
+B207,Jawan,Gold,612.0,7,Sunday
+B208,Avatar,Silver,958.0,1,Wednesday
+B209,Jawan,VIP,904.0,5,Friday
+B210,Mission Impossible,Platinum,371.0,4,Thursday
+B211,War 2,Platinum,603.0,2,Saturday
+B212,Dune 2,Platinum,986.0,2,Tuesday
+B213,War 2,Silver,773.0,8,Monday
+B214,Jawan,Gold,427.0,7,Thursday
+B215,Avatar,VIP,466.0,7,Saturday
+B216,Jawan,VIP,985.0,5,Monday
+B217,Avatar,Gold,1058.0,8,Tuesday
+B218,Avatar,Silver,902.0,6,Monday
+B219,Mission Impossible,Platinum,538.0,2,Sunday
+B220,Dune 2,Silver,584.0,1,Monday
+B221,Avatar,Gold,407.0,4,Monday
+B222,KGF 2,Gold,627.0,6,Sunday
+B223,Animal,Silver,717.0,3,Tuesday
+B224,Pushpa,Gold,375.0,1,Tuesday
+B225,War 2,Platinum,637.0,6,Monday
+B226,Animal,Platinum,257.0,3,Saturday
+B227,Mission Impossible,Silver,280.0,8,Thursday
+B228,Avatar,Silver,1075.0,4,Friday
+B229,War 2,Platinum,1088.0,1,Monday
+B230,Dune 2,VIP,1023.0,2,Thursday
+B231,Dune 2,Silver,315.0,6,Friday
+B232,Animal,Silver,408.0,5,Friday
+B233,Avatar,VIP,753.0,8,Friday
+B234,Mission Impossible,Silver,384.0,4,Thursday
+B235,Dune 2,Gold,997.0,6,Sunday
+B236,Dune 2,VIP,1001.0,2,Wednesday
+B237,Mission Impossible,Platinum,672.0,6,Tuesday
+B238,Dune 2,Silver,336.0,2,Monday
+B239,Mission Impossible,Silver,913.0,3,Friday
+B240,War 2,Platinum,400.0,7,Wednesday
+B241,Mission Impossible,Silver,739.0,5,Wednesday
+B242,Jawan,Gold,466.0,8,Tuesday
+B243,Jawan,Platinum,902.0,2,Sunday
+B244,Pushpa,Gold,1028.0,1,Friday
+B245,Pushpa,Silver,519.0,5,Saturday
+B246,Pushpa,Platinum,868.0,1,Tuesday
+B247,Animal,VIP,292.0,3,Saturday
+B248,War 2,Silver,590.0,7,Thursday
+B249,Dune 2,Platinum,472.0,6,Wednesday
+B250,Avatar,Silver,257.0,3,Tuesday
+B251,War 2,Silver,707.0,8,Saturday
+B252,Mission Impossible,VIP,1055.0,7,Wednesday
+B253,KGF 2,Silver,856.0,7,Monday
+B254,Pushpa,VIP,781.0,1,Tuesday
+B255,Mission Impossible,Silver,165.0,4,Wednesday
+B256,KGF 2,Gold,673.0,5,Wednesday
+B257,Jawan,Silver,1168.0,7,Tuesday
+B258,Animal,VIP,621.0,6,Monday
+B259,Mission Impossible,Silver,1043.0,1,Thursday
+B260,Jawan,Platinum,1029.0,7,Saturday
+B261,Mission Impossible,Platinum,385.0,7,Monday
+B262,Avatar,Gold,1092.0,6,Monday
+B263,Mission Impossible,Silver,648.0,7,Friday
+B264,Mission Impossible,Silver,960.0,5,Saturday
+B265,Avatar,Gold,832.0,3,Monday
+B266,Jawan,Gold,865.0,6,Saturday
+B267,Animal,Gold,360.0,3,Wednesday
+B268,KGF 2,Gold,463.0,2,Tuesday
+B269,Dune 2,VIP,1069.0,6,Sunday
+B270,Avatar,Gold,1050.0,2,Thursday
+B271,Dune 2,Platinum,712.0,1,Wednesday
+B272,Jawan,Platinum,1095.0,8,Monday
+B273,War 2,Platinum,737.0,2,Saturday
+B274,Jawan,VIP,1097.0,1,Thursday
+B275,KGF 2,Platinum,1124.0,3,Monday
+B276,Dune 2,Silver,853.0,2,Friday
+B277,Animal,Silver,657.0,8,Thursday
+B278,Animal,Platinum,913.0,5,Thursday
+B279,Mission Impossible,Platinum,257.0,6,Monday
+B280,Avatar,Silver,941.0,5,Wednesday
+B281,Animal,Platinum,316.0,3,Wednesday
+B282,Pushpa,VIP,414.0,2,Wednesday
+B283,Mission Impossible,Platinum,411.0,2,Saturday
+B284,Mission Impossible,Platinum,187.0,6,Wednesday
+B285,Animal,Gold,849.0,8,Tuesday
+B286,KGF 2,Gold,467.0,2,Wednesday
+B287,Jawan,Silver,839.0,3,Friday
+B288,Mission Impossible,Gold,482.0,3,Sunday
+B289,Animal,VIP,239.0,7,Wednesday
+B290,KGF 2,VIP,733.0,8,Tuesday
+B291,KGF 2,Platinum,1110.0,4,Wednesday
+B292,Dune 2,VIP,727.0,7,Friday
+B293,Mission Impossible,Gold,558.0,3,Sunday
+B294,Pushpa,Silver,1134.0,6,Friday
+B295,Jawan,Silver,733.0,2,Sunday
+B296,Animal,Platinum,1070.0,3,Sunday
+B297,Mission Impossible,Silver,604.0,8,Wednesday
+B298,War 2,VIP,259.0,7,Friday
+B299,Avatar,Gold,940.0,2,Wednesday
+B021,Animal,VIP,336.0,1,Sunday

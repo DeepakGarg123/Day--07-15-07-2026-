@@ -1,0 +1,251 @@
+Delivery_ID,Restaurant,Distance,Delivery_Time,Delivery_Partner,Rating
+D001,McDonald's,1.48,45.0,Mohit,3.1
+D002,McDonald's,13.86,79.0,Rahul,4.0
+D003,Domino's,1.57,37.0,Mohit,3.8
+D004,Domino's,11.66,79.0,Vikas,3.1
+D005,Subway,16.38,10.0,Deepak,4.2
+D006,Pizza Hut,6.28,37.0,Rohit,2.8
+D007,Bikanervala,2.84,54.0,Karan,4.5
+D008,Haldiram,11.19,58.0,Rahul,3.9
+D009,Pizza Hut,11.97,18.0,Aman,4.2
+D010,Subway,19.72,39.0,Rahul,3.5
+D011,Haldiram,13.08,56.0,Deepak,3.4
+D012,Burger King,13.73,19.0,Deepak,3.8
+D013,Burger King,4.1,58.0,Karan,5.0
+D014,Burger King,14.01,17.0,Mohit,4.6
+D015,Pizza Hut,8.62,18.0,Mohit,4.8
+D016,Pizza Hut,5.04,73.0,Vikas,4.7
+D017,Haldiram,3.71,27.0,Mohit,4.4
+D018,Subway,15.19,64.0,Vikas,3.4
+D019,KFC,10.68,21.0,Aman,4.7
+D020,KFC,12.92,64.0,Rahul,3.5
+D021,Haldiram,11.05,80.0,Aman,4.2
+D022,McDonald's,13.95,78.0,Karan,4.4
+D023,Pizza Hut,3.12,65.0,Deepak,3.6
+D024,Subway,19.47,32.0,Rahul,4.7
+D025,Subway,16.99,74.0,Mohit,2.9
+D026,KFC,11.25,,Aman,4.0
+D027,Haldiram,1.37,56.0,Karan,3.1
+D028,Burger King,17.68,20.0,Rahul,4.3
+D029,McDonald's,19.58,78.0,Deepak,2.8
+D030,Haldiram,18.99,31.0,Karan,3.8
+D031,Bikanervala,19.32,79.0,Mohit,4.3
+D032,Bikanervala,19.91,57.0,Ankit,4.7
+D033,Haldiram,3.3,38.0,Rahul,3.3
+D034,Burger King,12.18,10.0,Rahul,4.3
+D035,Domino's,5.35,14.0,Rohit,2.7
+D036,Burger King,6.29,72.0,Mohit,3.8
+D037,Haldiram,5.62,70.0,Vikas,3.0
+D038,McDonald's,13.52,55.0,Vikas,3.5
+D039,Domino's,13.79,22.0,Aman,3.5
+D040,Pizza Hut,16.21,23.0,Mohit,3.0
+D041,Haldiram,3.66,33.0,Karan,3.7
+D042,McDonald's,9.42,80.0,Rahul,2.6
+D043,Domino's,19.41,40.0,Deepak,3.5
+D044,Haldiram,5.06,61.0,Aman,2.9
+D045,Domino's,19.72,43.0,Ankit,3.2
+D046,Haldiram,3.94,47.0,Mohit,4.9
+D047,Domino's,15.21,17.0,Aman,4.0
+D048,KFC,2.08,75.0,Rahul,4.6
+D049,McDonald's,12.31,40.0,Vikas,2.8
+D050,Burger King,12.0,15.0,Rahul,3.5
+D051,Pizza Hut,18.76,36.0,Rohit,3.1
+D052,Bikanervala,3.49,48.0,Ankit,3.3
+D053,McDonald's,1.18,89.0,Rahul,2.7
+D054,Burger King,10.61,26.0,Rohit,4.7
+D055,Burger King,8.02,30.0,Ankit,4.6
+D056,Subway,12.62,77.0,Aman,4.2
+D057,Subway,18.7,23.0,Deepak,3.2
+D058,McDonald's,15.11,29.0,Karan,3.2
+D059,Burger King,14.63,36.0,Karan,3.8
+D060,Subway,18.2,16.0,Rahul,4.1
+D061,Subway,1.84,52.0,Deepak,4.1
+D062,Subway,4.07,66.0,Vikas,3.9
+D063,McDonald's,2.43,29.0,Aman,4.6
+D064,KFC,9.17,15.0,Karan,3.4
+D065,Domino's,18.08,36.0,Mohit,4.2
+D066,Pizza Hut,15.82,62.0,Deepak,4.8
+D067,Burger King,17.43,32.0,Vikas,2.6
+D068,Pizza Hut,15.87,62.0,Mohit,3.2
+D069,McDonald's,8.27,14.0,Ankit,3.1
+D070,Haldiram,7.64,39.0,Mohit,2.6
+D071,Burger King,8.57,45.0,Rahul,4.9
+D072,Subway,7.67,75.0,Vikas,4.2
+D073,Pizza Hut,18.85,24.0,Karan,2.9
+D074,Subway,1.73,86.0,Vikas,3.4
+D075,Pizza Hut,9.29,75.0,Rahul,3.5
+D076,Burger King,5.84,65.0,Aman,3.8
+D077,Burger King,7.92,18.0,Rohit,4.1
+D078,McDonald's,14.68,48.0,Karan,4.2
+D079,Pizza Hut,8.65,47.0,Deepak,3.0
+D080,Bikanervala,13.87,32.0,Karan,3.5
+D081,,6.77,36.0,Vikas,4.5
+D082,Pizza Hut,9.83,66.0,Mohit,3.8
+D083,KFC,13.52,46.0,Rohit,2.7
+D084,Burger King,13.78,38.0,Mohit,2.9
+D085,Domino's,5.65,70.0,Rahul,3.6
+D086,Burger King,14.65,59.0,Ankit,3.5
+D087,KFC,13.47,10.0,Rahul,4.4
+D088,Burger King,4.34,76.0,Ankit,2.6
+D089,Burger King,18.43,25.0,Ankit,2.8
+D090,Haldiram,13.68,81.0,Rohit,4.9
+D091,Haldiram,12.64,74.0,Vikas,4.6
+D092,Haldiram,18.05,70.0,Ankit,3.1
+D093,Burger King,16.96,45.0,Ankit,4.1
+D094,Subway,9.36,46.0,Mohit,3.2
+D095,Pizza Hut,17.97,20.0,Deepak,2.9
+D096,Bikanervala,14.19,37.0,Rahul,3.5
+D097,Pizza Hut,11.31,63.0,Aman,3.0
+D098,Bikanervala,8.4,84.0,Aman,4.6
+D099,Bikanervala,10.06,55.0,Karan,4.4
+D100,Bikanervala,11.23,79.0,Mohit,3.7
+D101,Subway,9.28,13.0,Vikas,3.3
+D102,Bikanervala,14.76,69.0,Deepak,5.0
+D103,Domino's,18.23,85.0,Aman,2.7
+D104,Bikanervala,3.58,69.0,Deepak,2.6
+D105,Bikanervala,7.22,68.0,Rohit,3.3
+D106,Bikanervala,6.29,63.0,Karan,4.6
+D107,Haldiram,1.37,79.0,Aman,5.0
+D108,Pizza Hut,5.26,18.0,Aman,4.4
+D109,Burger King,4.79,12.0,Deepak,3.1
+D110,Haldiram,13.72,82.0,Mohit,3.7
+D111,Subway,15.57,31.0,Rahul,4.4
+D112,KFC,19.33,23.0,Aman,4.8
+D113,Bikanervala,8.54,35.0,Rahul,4.0
+D114,Burger King,2.94,48.0,Rahul,4.5
+D115,Domino's,7.6,64.0,Rohit,2.7
+D116,Pizza Hut,1.24,63.0,Ankit,2.8
+D117,Pizza Hut,13.08,68.0,Deepak,3.6
+D118,Subway,12.7,78.0,Ankit,3.7
+D119,Subway,7.12,41.0,Rahul,3.2
+D120,Haldiram,5.63,69.0,Vikas,3.3
+D121,Haldiram,17.17,33.0,Ankit,3.0
+D122,Subway,7.47,86.0,Karan,3.9
+D123,Burger King,2.63,62.0,Ankit,3.9
+D124,Burger King,14.12,72.0,Ankit,4.5
+D125,McDonald's,6.59,61.0,Mohit,3.3
+D126,Pizza Hut,9.99,77.0,Rohit,3.6
+D127,Pizza Hut,7.68,68.0,Karan,3.3
+D128,Burger King,3.29,34.0,Rohit,2.8
+D129,KFC,4.64,71.0,Karan,4.3
+D130,Subway,19.63,34.0,Karan,3.1
+D131,KFC,6.74,78.0,Deepak,3.2
+D132,Domino's,11.51,26.0,Ankit,2.8
+D133,Domino's,11.91,70.0,Ankit,3.6
+D134,KFC,19.34,42.0,Ankit,2.8
+D135,McDonald's,8.61,19.0,Aman,2.9
+D136,Subway,2.62,41.0,Rahul,3.9
+D137,Bikanervala,12.52,89.0,Mohit,4.4
+D138,Bikanervala,9.56,66.0,Karan,4.7
+D139,Bikanervala,6.8,89.0,Aman,4.0
+D140,McDonald's,19.0,36.0,Mohit,3.2
+D141,McDonald's,3.98,32.0,Rahul,2.9
+D142,Bikanervala,9.56,86.0,Ankit,3.2
+D143,Burger King,6.47,46.0,Ankit,2.7
+D144,Burger King,18.55,90.0,Mohit,3.6
+D145,Burger King,13.31,44.0,Deepak,2.7
+D146,KFC,16.06,86.0,Karan,3.6
+D147,Haldiram,14.08,61.0,Karan,3.8
+D148,Haldiram,9.32,86.0,Aman,4.7
+D149,Pizza Hut,12.47,13.0,Rahul,3.1
+D150,Domino's,19.99,44.0,Aman,4.4
+D151,KFC,9.94,66.0,Karan,3.0
+D152,Bikanervala,13.06,72.0,Rahul,3.7
+D153,Bikanervala,7.33,23.0,Deepak,3.3
+D154,Haldiram,6.48,61.0,Aman,3.6
+D155,Pizza Hut,5.8,24.0,Vikas,4.7
+D156,Domino's,13.5,79.0,Ankit,3.5
+D157,Burger King,10.85,89.0,Ankit,4.1
+D158,Domino's,4.87,80.0,Deepak,4.8
+D159,Haldiram,17.74,72.0,Rahul,2.6
+D160,Burger King,14.49,49.0,Aman,3.9
+D161,McDonald's,5.27,24.0,Ankit,4.9
+D162,KFC,10.47,47.0,Karan,3.5
+D163,Haldiram,19.62,41.0,Ankit,3.9
+D164,Bikanervala,4.62,86.0,Deepak,4.7
+D165,Subway,15.68,63.0,Rohit,4.8
+D166,Subway,16.59,46.0,Karan,4.6
+D167,Haldiram,17.44,67.0,Ankit,3.4
+D168,Bikanervala,9.65,51.0,Mohit,5.0
+D169,Burger King,11.86,39.0,Vikas,2.6
+D170,Haldiram,14.4,58.0,Vikas,5.0
+D171,KFC,10.41,14.0,Deepak,3.8
+D172,Pizza Hut,17.52,66.0,Rahul,3.8
+D173,Haldiram,1.29,28.0,Vikas,4.7
+D174,KFC,2.42,43.0,Rohit,4.1
+D175,Bikanervala,13.35,52.0,Vikas,4.9
+D176,Haldiram,17.58,14.0,Rahul,3.1
+D177,Subway,19.95,21.0,Vikas,4.9
+D178,McDonald's,9.43,48.0,Aman,2.6
+D179,Domino's,6.57,57.0,Vikas,2.9
+D180,Bikanervala,11.75,33.0,Deepak,2.9
+D181,Bikanervala,12.77,40.0,Ankit,4.8
+D182,KFC,5.41,42.0,Ankit,3.1
+D183,Domino's,18.08,69.0,Karan,4.2
+D184,KFC,2.4,54.0,Karan,4.1
+D185,Bikanervala,14.12,68.0,Karan,3.0
+D186,Bikanervala,17.21,23.0,Mohit,3.5
+D187,Pizza Hut,11.92,47.0,Aman,4.9
+D188,Bikanervala,6.22,82.0,Aman,4.8
+D189,Haldiram,16.82,46.0,Mohit,4.0
+D190,Pizza Hut,5.16,34.0,Karan,4.2
+D191,KFC,12.94,90.0,Aman,3.3
+D192,Haldiram,1.63,56.0,Deepak,2.7
+D193,Subway,7.21,63.0,Deepak,3.0
+D194,Pizza Hut,11.09,44.0,Deepak,3.1
+D195,Haldiram,19.38,47.0,Rohit,4.5
+D196,Haldiram,19.29,28.0,Mohit,4.7
+D197,Bikanervala,19.38,81.0,Rohit,2.7
+D198,Bikanervala,1.26,78.0,Rahul,3.6
+D199,Subway,12.11,57.0,Rahul,4.2
+D200,Haldiram,1.48,81.0,Rohit,4.8
+D201,Burger King,13.31,69.0,Karan,4.1
+D202,McDonald's,3.66,14.0,Karan,5.0
+D203,McDonald's,2.85,78.0,Deepak,3.5
+D204,Pizza Hut,13.74,79.0,Vikas,4.0
+D205,KFC,17.82,22.0,Ankit,4.0
+D206,Subway,1.62,57.0,Mohit,3.6
+D207,Burger King,17.25,22.0,Rohit,3.9
+D208,Pizza Hut,2.15,45.0,Mohit,4.9
+D209,Haldiram,2.74,37.0,Aman,2.6
+D210,Pizza Hut,5.63,26.0,Mohit,2.7
+D211,Burger King,12.14,39.0,Rohit,4.4
+D212,Domino's,6.27,28.0,Deepak,3.9
+D213,KFC,3.09,13.0,Deepak,2.5
+D214,Burger King,12.19,12.0,Deepak,3.2
+D215,KFC,15.09,77.0,Rahul,4.4
+D216,Haldiram,9.52,56.0,Rahul,3.6
+D217,Burger King,18.96,15.0,Karan,3.6
+D218,Domino's,2.16,71.0,Vikas,3.6
+D219,McDonald's,10.32,66.0,Rahul,4.7
+D220,Pizza Hut,12.56,18.0,Deepak,3.2
+D221,Pizza Hut,8.24,86.0,Karan,3.6
+D222,Bikanervala,2.88,24.0,Mohit,3.6
+D223,Burger King,8.86,68.0,Vikas,3.5
+D224,McDonald's,6.94,50.0,Karan,3.4
+D225,KFC,14.05,70.0,Rahul,2.7
+D226,McDonald's,2.77,22.0,Rohit,4.5
+D227,Domino's,12.14,81.0,Rohit,4.2
+D228,Bikanervala,7.72,64.0,Aman,4.9
+D229,Subway,7.68,83.0,Mohit,2.9
+D230,Haldiram,5.26,23.0,Rohit,4.6
+D231,Pizza Hut,3.18,45.0,Mohit,4.5
+D232,Domino's,12.57,44.0,Aman,3.0
+D233,Subway,18.51,54.0,Aman,3.0
+D234,KFC,11.76,61.0,Rahul,2.9
+D235,Domino's,2.74,77.0,Mohit,3.4
+D236,Haldiram,7.48,57.0,Karan,4.3
+D237,McDonald's,17.78,29.0,Deepak,4.4
+D238,Domino's,13.81,44.0,Ankit,4.2
+D239,Haldiram,12.53,63.0,Karan,3.0
+D240,McDonald's,7.56,24.0,Karan,4.2
+D241,Haldiram,11.01,49.0,Aman,3.1
+D242,Domino's,1.15,48.0,Mohit,4.4
+D243,Subway,6.5,25.0,Aman,3.7
+D244,Bikanervala,4.34,58.0,Mohit,3.8
+D245,Pizza Hut,2.37,15.0,Vikas,2.5
+D246,McDonald's,17.38,83.0,Vikas,3.9
+D247,Bikanervala,6.5,61.0,Aman,4.9
+D248,KFC,16.23,89.0,Ankit,4.6
+D249,Pizza Hut,2.67,23.0,Mohit,3.6
+D031,Bikanervala,19.32,79.0,Mohit,4.3

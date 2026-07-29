@@ -1,0 +1,151 @@
+Student,Branch,CGPA,Interview_Score,Package,Company
+Student_1,Civil,6.0,87,11.8,Accenture
+Student_2,AI & ML,8.81,83,26.7,Infosys
+Student_3,Mechanical,7.4,41,6.0,Accenture
+Student_4,Mechanical,8.21,75,9.36,Google
+Student_5,AI & ML,7.52,57,28.9,TCS
+Student_6,AI & ML,8.64,61,11.89,Accenture
+Student_7,IT,5.96,64,6.09,Capgemini
+Student_8,Mechanical,6.69,42,26.35,Infosys
+Student_9,ECE,5.85,58,29.54,Capgemini
+Student_10,Mechanical,6.37,44,4.47,Accenture
+Student_11,IT,9.93,94,10.45,Infosys
+Student_12,ECE,6.75,80,29.69,Wipro
+Student_13,IT,7.1,82,11.54,Infosys
+Student_14,Mechanical,8.36,74,26.33,Wipro
+Student_15,ECE,7.21,99,23.48,Accenture
+Student_16,Civil,6.96,89,27.83,Accenture
+Student_17,CSE,9.12,65,11.57,Accenture
+Student_18,Mechanical,9.44,60,9.8,Microsoft
+Student_19,ECE,9.48,81,17.68,Cognizant
+Student_20,AI & ML,6.61,75,20.25,Google
+Student_21,Mechanical,7.3,54,,Wipro
+Student_22,Mechanical,7.72,88,4.51,Infosys
+Student_23,AI & ML,8.32,90,24.78,Infosys
+Student_24,ECE,7.22,69,19.93,TCS
+Student_25,Civil,8.74,83,31.31,Cognizant
+Student_26,Civil,7.03,58,16.91,Microsoft
+Student_27,CSE,9.79,96,26.03,Wipro
+Student_28,Mechanical,9.61,95,23.01,Accenture
+Student_29,AI & ML,7.18,50,20.26,TCS
+Student_30,Mechanical,6.96,41,6.58,Capgemini
+Student_31,IT,6.58,55,31.1,Infosys
+Student_32,CSE,8.79,92,5.21,Wipro
+Student_33,AI & ML,8.47,100,20.59,Cognizant
+Student_34,Mechanical,9.43,67,33.86,Accenture
+Student_35,Civil,6.9,82,23.8,Microsoft
+Student_36,Mechanical,7.53,55,10.19,Capgemini
+Student_37,CSE,8.15,54,21.83,TCS
+Student_38,CSE,8.69,43,10.33,TCS
+Student_39,IT,5.82,55,11.91,Microsoft
+Student_40,AI & ML,7.93,86,32.94,Microsoft
+Student_41,AI & ML,9.03,91,16.03,Infosys
+Student_42,CSE,8.47,62,16.55,Microsoft
+Student_43,Civil,5.74,81,34.49,Infosys
+Student_44,CSE,7.31,61,28.62,Infosys
+Student_45,AI & ML,6.36,74,17.36,Google
+Student_46,AI & ML,6.75,55,30.98,Infosys
+Student_47,ECE,9.14,94,20.61,TCS
+Student_48,Civil,10.0,93,3.47,Infosys
+Student_49,AI & ML,6.25,71,18.4,Google
+Student_50,CSE,6.24,40,34.53,Cognizant
+Student_51,ECE,6.78,84,33.63,Microsoft
+Student_52,AI & ML,6.35,53,34.0,TCS
+Student_53,Civil,6.91,43,21.69,Wipro
+Student_54,CSE,9.82,45,30.24,Infosys
+Student_55,Mechanical,5.81,95,10.53,Infosys
+Student_56,Mechanical,6.61,78,4.27,Infosys
+Student_57,ECE,8.46,76,19.73,Cognizant
+Student_58,AI & ML,8.51,60,10.64,Google
+Student_59,AI & ML,8.52,59,17.63,Infosys
+Student_60,CSE,7.56,76,34.88,Infosys
+Student_61,Mechanical,,56,7.24,Capgemini
+Student_62,CSE,9.46,63,12.12,Microsoft
+Student_63,Mechanical,8.67,79,34.48,TCS
+Student_64,Civil,9.18,59,32.82,Infosys
+Student_65,AI & ML,6.69,96,6.43,Wipro
+Student_66,IT,6.77,53,25.96,Accenture
+Student_67,Civil,8.35,56,19.17,Cognizant
+Student_68,CSE,5.92,67,29.54,TCS
+Student_69,CSE,7.0,48,23.39,Cognizant
+Student_70,AI & ML,8.84,75,25.58,TCS
+Student_71,CSE,5.84,96,25.11,Wipro
+Student_72,Mechanical,5.66,63,21.64,Wipro
+Student_73,ECE,6.07,59,14.67,TCS
+Student_74,IT,6.45,55,24.34,Capgemini
+Student_75,Mechanical,9.48,66,34.16,Wipro
+Student_76,AI & ML,9.39,91,28.94,Google
+Student_77,CSE,6.31,99,13.63,Google
+Student_78,Civil,9.39,91,10.94,Wipro
+Student_79,Civil,5.99,95,4.24,Microsoft
+Student_80,AI & ML,6.4,98,17.73,Cognizant
+Student_81,AI & ML,6.5,82,9.18,Capgemini
+Student_82,IT,9.39,89,11.93,Google
+Student_83,Civil,9.92,74,13.6,TCS
+Student_84,CSE,9.45,56,8.71,Cognizant
+Student_85,CSE,5.99,67,14.06,Capgemini
+Student_86,ECE,8.23,72,6.7,Accenture
+Student_87,IT,5.7,67,3.05,Accenture
+Student_88,IT,7.44,100,24.26,Capgemini
+Student_89,Mechanical,6.91,94,6.99,Cognizant
+Student_90,Mechanical,6.89,66,13.44,Cognizant
+Student_91,Mechanical,6.07,66,24.28,
+Student_92,Civil,8.87,51,22.7,Cognizant
+Student_93,ECE,7.97,40,12.72,Accenture
+Student_94,ECE,9.04,78,23.95,Microsoft
+Student_95,ECE,7.49,53,19.36,Wipro
+Student_96,Civil,5.88,72,24.24,Capgemini
+Student_97,CSE,9.18,88,10.52,Cognizant
+Student_98,AI & ML,9.13,49,3.78,Accenture
+Student_99,ECE,8.25,89,5.33,Google
+Student_100,Civil,8.09,85,25.28,Microsoft
+Student_101,ECE,6.6,81,25.0,Infosys
+Student_102,ECE,6.48,91,33.65,Microsoft
+Student_103,CSE,8.01,98,30.15,Microsoft
+Student_104,AI & ML,9.11,82,20.0,Capgemini
+Student_105,ECE,8.26,86,31.54,Google
+Student_106,Mechanical,7.51,50,26.8,Microsoft
+Student_107,ECE,6.67,55,29.88,Cognizant
+Student_108,Mechanical,7.68,55,11.79,Infosys
+Student_109,Civil,6.79,57,13.75,Infosys
+Student_110,AI & ML,6.18,64,25.21,Accenture
+Student_111,CSE,7.37,61,20.36,Google
+Student_112,CSE,6.43,66,15.46,TCS
+Student_113,Mechanical,7.21,40,33.17,Cognizant
+Student_114,ECE,9.34,93,16.41,Accenture
+Student_115,ECE,6.49,67,18.54,Google
+Student_116,IT,8.51,91,15.94,Wipro
+Student_117,ECE,9.64,79,20.09,Google
+Student_118,Mechanical,8.04,41,5.69,Google
+Student_119,AI & ML,9.4,51,4.61,Google
+Student_120,IT,6.45,60,13.8,Google
+Student_121,IT,8.88,93,16.49,Infosys
+Student_122,ECE,5.59,74,4.67,Capgemini
+Student_123,AI & ML,8.43,89,33.63,TCS
+Student_124,CSE,9.77,52,29.86,Wipro
+Student_125,AI & ML,6.07,82,6.66,Accenture
+Student_126,ECE,8.65,89,14.8,Infosys
+Student_127,AI & ML,9.84,46,21.52,Cognizant
+Student_128,Mechanical,8.55,64,15.69,Accenture
+Student_129,CSE,8.16,93,23.07,Infosys
+Student_130,Civil,8.98,94,24.9,Infosys
+Student_131,Mechanical,9.02,62,20.05,Capgemini
+Student_132,CSE,7.78,61,3.4,Google
+Student_133,ECE,5.97,63,23.34,Microsoft
+Student_134,Civil,6.19,51,26.48,Cognizant
+Student_135,Mechanical,9.14,74,27.79,Microsoft
+Student_136,ECE,9.22,77,11.59,Accenture
+Student_137,CSE,6.76,68,10.8,Microsoft
+Student_138,Mechanical,8.25,64,13.76,Microsoft
+Student_139,IT,6.32,53,14.35,Cognizant
+Student_140,IT,6.76,78,25.44,Cognizant
+Student_141,Mechanical,5.55,100,9.11,Accenture
+Student_142,Civil,7.33,75,27.26,Microsoft
+Student_143,Civil,8.7,68,28.37,Infosys
+Student_144,IT,6.5,84,10.79,Capgemini
+Student_145,ECE,7.99,62,16.62,Capgemini
+Student_146,IT,8.66,57,12.81,Accenture
+Student_147,CSE,8.75,60,6.83,Wipro
+Student_148,AI & ML,6.47,70,11.85,Cognizant
+Student_149,CSE,9.25,58,10.28,Wipro
+Student_16,Civil,6.96,89,27.83,Accenture

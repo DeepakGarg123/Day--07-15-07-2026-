@@ -99,8 +99,6 @@ plt.show()
 
 
 
-
-
 """Exercise 2 – Electric Vehicle Charging Station Analysis
 Create ev_charging.csv with 100 charging sessions.
 Columns
@@ -203,8 +201,6 @@ print(charging_type)
 
 
 
-
-
 """Exercise 3 – Smart Farming Analytics
 Create farm_data.csv with 150 records.
 Columns
@@ -295,7 +291,6 @@ plt.xlabel("Rainfall")
 plt.ylabel("Frequency")
 plt.show()
 """
-
 
 
 

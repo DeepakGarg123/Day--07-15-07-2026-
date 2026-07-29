@@ -1,6 +1,11 @@
-RollNo,Name,Course,Marks
-101,Deepak,Python,90
-102,Rahul,Gen AI,85
-103,Aman,SQL,95
-104,Mohit,Python,78
-105,Karan,Gen AI,88
+Age,Study_Hours,Attendance,Previous_Marks,Final_Marks
+20,2,75,60,65
+21,5,90,80,88
+22,4,85,75,82
+20,6,95,85,92
+21,3,80,70,74
+23,7,98,90,96
+19,1,70,55,58
+22,5,92,82,89
+24,6,96,88,94
+20,4,84,73,79
