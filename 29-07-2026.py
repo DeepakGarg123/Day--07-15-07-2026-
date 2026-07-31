@@ -154,36 +154,38 @@
 # r2 = r2_score(y_test , y_pred)
 # print("R2 is :",r2)
 
-import pandas as pd
-df = pd.read_csv("diabetes_prediction_dataset.csv")
-print(df.head())
-print(df.isnull().sum())
-print(df["diabetes"].value_counts())
-print(df["smoking_history"].unique())
-print(df["gender"].unique())
-X = df[["gender" , "age" , "hypertension" , "heart_disease" , "smoking_history" , "bmi" , "HbA1c_level" , "blood_glucose_level" ]]
-y=df["diabetes"]
-X["gender"] = X["gender"].map({"Female":0 , "Male":1})
-X["smoking_history"] = X["smoking_history"].map({"former":0 , "never":1 , "No Info":2, "current":3 , "not current":4 , "ever":5})
-from sklearn.model_selection import train_test_split
-X_train , X_test , y_train , y_test = train_test_split(
-    X,
-    y,
-    test_size=0.2,
-    random_state=42
-)
-from sklearn.linear_model import LogisticRegression
-model = LogisticRegression(
-    max_iter=10000,
-    class_weight="balanced"
-)
-model.fit(X_train , y_train)
-y_pred = model.predict(X_test)
-new_patient = [[1 , 59.0 , 1 , 1 , 1 , 29.7 , 7.0 , 190 ]]
-prediction  = model.predict(new_patient)
-print("Having diabetes:" , prediction)
-from sklearn.metrics import accuracy_score , precision_score , f1_score , recall_score
-print("accuracy score:",accuracy_score(y_test , y_pred))
-print("precision score:" , precision_score(y_test , y_pred))
-print("f1_score:" , f1_score(y_test , y_pred))
-print("recall score:" , recall_score(y_test , y_pred))
+# import pandas as pd
+# df = pd.read_csv("diabetes_prediction_dataset.csv")
+# print(df.head())
+# print(df.isnull().sum())
+# print(df["diabetes"].value_counts())
+# print(df["smoking_history"].unique())
+# print(df["gender"].unique())
+# X = df[["gender" , "age" , "hypertension" , "heart_disease" , "smoking_history" , "bmi" , "HbA1c_level" , "blood_glucose_level" ]]
+# y=df["diabetes"]
+# X["gender"] = X["gender"].map({"Female":0 , "Male":1})
+# X["smoking_history"] = X["smoking_history"].map({"former":0 , "never":1 , "No Info":2, "current":3 , "not current":4 , "ever":5})
+# from sklearn.model_selection import train_test_split
+# X_train , X_test , y_train , y_test = train_test_split(
+#     X,
+#     y,
+#     test_size=0.2,
+#     random_state=42
+# )
+# from sklearn.linear_model import LogisticRegression
+# model = LogisticRegression(
+#     max_iter=10000,
+#     class_weight="balanced"
+# )
+# model.fit(X_train , y_train)
+# y_pred = model.predict(X_test)
+# new_patient = [[1 , 59.0 , 1 , 1 , 1 , 29.7 , 7.0 , 190 ]]
+# prediction  = model.predict(new_patient)
+# print("Having diabetes:" , prediction)
+# from sklearn.metrics import accuracy_score , precision_score , f1_score , recall_score
+# print("accuracy score:",accuracy_score(y_test , y_pred))
+# print("precision score:" , precision_score(y_test , y_pred))
+# print("f1_score:" , f1_score(y_test , y_pred))
+# print("recall score:" , recall_score(y_test , y_pred))
+
+
