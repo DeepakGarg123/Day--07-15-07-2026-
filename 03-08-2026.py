@@ -1,119 +1,107 @@
-# Exercise 1: Resume Keyword Analyzer
-# Create a program that:
+# Exercise 2: Bag of Words using CountVectorizer
+# documents = [
+#     "I love NLP and Machine Learning",
+#     "Machine Learning is amazing",
+#     "I love learning new things"
+# ]
+# Tasks
 
-# Takes a resume text as input
-# Converts it to lowercase
-# Tokenizes words
-# Removes stopwords
-# Displays:
-# Total words
-# Unique words
-# Top 10 most frequent words
-
-# Expected Skills:
-
-# Tokenization
-# Stopwords
-# Vocabulary
-
-text = input("enter text:")
-print(text.lower())
-print(len(text))
-
-# Exercise 2: News Article Cleaner
-# Given a paragraph copied from a news website:
-# Perform:
-
-# Lowercasing
-# Remove punctuation
-# Tokenization
-# Stopword removal
-# Display final cleaned text.
-# Expected Skills:
-
-# NLP preprocessing pipeline
+# Apply CountVectorizer.
+# Print vocabulary.
+# Print BoW matrix.
+# Convert sparse matrix into array.
 
 
-# Exercise 3: Build Vocabulary Generator
-# Input:
-# 3 documents from user.
-# Output:
-
-# Vocabulary:
-# ["python","machine","learning","nlp",...]Also display:
-
-# Total Vocabulary SizeExpected Skills:
-
-# Corpus
-# Vocabulary
-
-text = input("enter 1st sentence:")
-text1 = input("enter 2nd sentence:")
-text2 = input("enter 3rd sentence:")
-Corpus = 
-# Exercise 4: Manual BoW Generator
-# Without CountVectorizer.
-# Input:
-
-# doc1 = "I love NLP"
-# doc2 = "NLP is amazing"
-# doc3 = "I love coding"Generate BoW table manually using Python.
-# Expected Skills:
-
-# Vocabulary
-# Frequency counting
+from sklearn.feature_extraction.text import CountVectorizer
+documents = [
+    "I love NLP and Machine Learning",
+    "Machine Learning is amazing",
+    "I Love learning new things"
+]
+vectorizer = CountVectorizer()
+X = vectorizer.fit_transform(documents)
+print(vectorizer.get_feature_names_out())
+print(X.toarray())
 
 
-# Exercise 5: Similarity Finder using BoW
-# Input:
-# 5 documents.
-# Convert them into BoW vectors.
-# Find:
-# Most Similar Document Pairusing cosine similarity.
-# Expected Skills:
+# Exercise 3: TF-IDF Vectorizer
+# Input
+# Use the same documents from Exercise 2.
+# Tasks
 
-# Vectorization
-# Similarity
+# Apply TfidfVectorizer.
+# Print vocabulary.
+# Print TF-IDF matrix.
+# Convert matrix into array.
 
-
-# Exercise 6: TF-IDF Keyword Extractor
-# Input:
-# 5 documents.
-# Apply TF-IDF.
-# For every document display:
-
-# Top 3 Most Important WordsExpected Skills:
-
-# TF-IDF understanding
-
-
-# Exercise 7: Spam Keyword Detector
-# Dataset:
-# Create 20 messages manually.
-# Example:
-# Win Money Now
-
-# Meeting at 5 PMUse:
-
-# BoW
-# TF-IDF
-# Find words with highest importance.
-# Determine:
-# Which words strongly indicate spam?Expected Skills:
-
-# NLP + Business Thinking
+from sklearn.feature_extraction.text import TfidfVectorizer
+documents = [
+    "I love NLP and Machine Learning",
+    "Machine Learning is amazing",
+    "I Love learning new things"
+]
+vectorizer = TfidfVectorizer()
+tfidf = vectorizer.fit_transform(documents)
+print(vectorizer.get_feature_names_out())
+print(tfidf.toarray())
 
 
-# Exercise 8: Job Description Analyzer
-# Input:
-# A software engineer job description.
-# Tasks:
+from sklearn.feature_extraction.text import TfidfVectorizer
+documents = [
+    "Python is a popular programming language used for machine learning",
+    "Machine learning uses Python and data science techniques",
+    "Deep learning and artificial intelligence are transforming technology",
+    "Python is widely used for artificial intelligence and data analysis",
+    "Data science includes statistics machine learning and visualization"
+]
+vectorizer = TfidfVectorizer()
+X = vectorizer.fit_transform(documents)
+print(vectorizer.get_feature_names_out())
+print(X.toarray())
 
-# Clean text
-# Remove stopwords
-# Generate TF-IDF
-# Extract top 15 keywords
-# Output:
-# Top Skills RequiredExpected Skills:
 
-# Real-world NLP
+# Exercise 4: Document Similarity using Cosine Similarity
+# text1 = "I love NLP"
+# text2 = "I enjoy NLP and text processing"
+# Tasks
+
+# Convert both texts into TF-IDF vectors.
+# Calculate cosine similarity.
+# Print similarity score.
+
+
+from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.metrics.pairwise import cosine_similarity
+text1 = "I love NLP"
+text2 = "I enjoy NLP and text processing"
+vectorizer = TfidfVectorizer()
+X = vectorizer.fit_transform([text1 , text2])
+print(vectorizer.get_feature_names_out(X))
+similarity = cosine_similarity(X)
+print(similarity)
+
+
+from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.metrics.pairwise import cosine_similarity
+Resume  = "Python Machine Learning SQL Deep Learning NLP"
+Job_Description= "Looking for a Python developer with Machine Learning NLP SQL and Deep Learning skills."
+vectorizer = TfidfVectorizer()
+X = vectorizer.fit_transform([Resume , Job_Description])
+print(vectorizer.get_feature_names_out(X))
+similarity = cosine_similarity(X)
+print(similarity)
+
+from sklearn.feature_extraction.text import CountVectorizer
+from sklearn.metrics.pairwise import cosine_similarity
+text1 = "I love NLP"
+text2 = "I enjoy NLP and text processing"
+doc1 = "Python is a popular programming language used for machine learning"
+doc2 = "Machine learning uses Python and data science techniques"
+doc3 = "Deep learning and artificial intelligence are transforming technology"
+vectorizer = CountVectorizer()
+X = vectorizer.fit_transform([text1 , text2 , doc1 , doc2 , doc3])
+print(vectorizer.get_feature_names_out())
+similarity = cosine_similarity(X)
+print(similarity)
+
+

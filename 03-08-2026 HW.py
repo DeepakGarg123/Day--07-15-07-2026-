@@ -1,3 +1,4 @@
+# Spam email filtering
 import pandas as pd
 from sklearn.feature_extraction.text import CountVectorizer
 df = pd.read_csv("Spam_dataset.csv")
@@ -28,8 +29,7 @@ print("recall score:" , recall_score(y_test , y_pred))
 print("f1 score:" , f1_score(y_test , y_pred))
 print("precision score:" ,precision_score(y_test , y_pred))
 
-
-
+# Sentiment analysis
 import pandas as pd
 from sklearn.feature_extraction.text import CountVectorizer
 df = pd.read_csv("sentiment analysis.csv")
