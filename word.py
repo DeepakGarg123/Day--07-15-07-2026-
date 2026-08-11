@@ -7,14 +7,8 @@ sentences = [
     ["i", "love", "watch", "football"]
 ]
 
-model = Word2Vec(
-    sentences,
-    vector_size=100,
-    window=2,
-    min_count=1,
-    sg=0
-)
+model = Word2Vec(sentences=sentences, vector_size=100, window=2, min_count=1, sg=0)
 
-print(model.wv["cricket"])
-
-print(model.wv.most_similar("cricket"))
+print("Vector for 'cricket':", model.wv["cricket"])
+print("Most similar to 'cricket':", model.wv.most_similar("cricket"))
+print

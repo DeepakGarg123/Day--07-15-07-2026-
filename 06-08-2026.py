@@ -70,24 +70,24 @@ print(df["cleaned_message"])
 # First 20 tokens of the first message.
 
 
-# import pandas as pd
-# import re
-# from nltk.corpus import stopwords
-# df = pd.read_csv("spam_dataset.csv")
-# print(df.head())
-# def clean_text(text):
-#     text = str(text).lower()
-#     text = re.sub(r"\S+@\S+","",text)
-#     text = re.sub(r"\d+","",text)
-#     text = re.sub(r"[^a-z\s]","",text)
-#     text = re.sub(r"\s+"," ",text).strip()
-#     return text
-# def tokenize_text(text):
-#     return text.split()
-# df["cleaned message"] = df["message"].apply(clean_text)
-# df["tokens"] = df["cleaned message"].apply(tokenize_text)
-# print("Total number of Tokens:" , len(df["tokens"].iloc[0]))
-# print("First 20 tokens:",df["tokens"].iloc[0][:20])
+import pandas as pd
+import re
+from nltk.corpus import stopwords
+df = pd.read_csv("spam_dataset.csv")
+print(df.head())
+def clean_text(text):
+    text = str(text).lower()
+    text = re.sub(r"\S+@\S+","",text)
+    text = re.sub(r"\d+","",text)
+    text = re.sub(r"[^a-z\s]","",text)
+    text = re.sub(r"\s+"," ",text).strip()
+    return text
+def tokenize_text(text):
+    return text.split()
+df["cleaned message"] = df["message"].apply(clean_text)
+df["tokens"] = df["cleaned message"].apply(tokenize_text)
+print("Total number of Tokens:" , len(df["tokens"].iloc[0]))
+print("First 20 tokens:",df["tokens"].iloc[0][:20])
 
 
 
