@@ -48,7 +48,7 @@ nltk.download('punkt_tab')
 
 # # Q4.
 # from nltk.tokenize import word_tokenize
-# text = "Machine Learning is changing the world in 2026!"
+# text = "Machine Learning is changing the world in 2026 and in 20.37!"
 # tokens = word_tokenize(text)
 # print(tokens)
 # alphabetic_tokens = []
@@ -58,17 +58,26 @@ nltk.download('punkt_tab')
 # print(Total_number_of_Tokens)
 # unique_tokens = set(tokens)
 # print(unique_tokens)
+# print(len(unique_tokens))
 # for token in tokens:
 #     if token.isalpha():
 #         alphabetic_tokens.append(token)
-#     elif token.isdigit():
+#         print(alphabetic_tokens)
+#     elif token.replace('.' , '' , 1).isdigit():
 #         numeric_tokens.append(token)
+#         print(numeric_tokens)
 #     else:
 #         special_character_tokens.append(token)
+#         print(special_character_tokens)
 # print(len(alphabetic_tokens))
 # print(len(numeric_tokens))
 # print(len(special_character_tokens))
 # print(tokens)
+# longest_token = max(tokens , key=len)
+# print(longest_token)
+# shortest_token = min(tokens , key = len)
+# print(shortest_token)
+
 
 # Q5.
 
@@ -85,20 +94,6 @@ nltk.download('punkt_tab')
 # result = clean_tokens(text)
 # print(result)
         
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # Q6.
 # from nltk.tokenize import word_tokenize
 # from nltk.tokenize import sent_tokenize
@@ -108,7 +103,9 @@ nltk.download('punkt_tab')
 # print(sentences)
 # words = word_tokenize(text)
 # print(words)
-# lowercase = text.lower()
+# lowercase = []
+# for word in words:
+#     lowercase.append(word.lower())
 # print(lowercase)
 # cleaned_tokens = []
 # for token in words:
@@ -121,6 +118,7 @@ nltk.download('punkt_tab')
 #     if word not in stop_words:
 #         final_tokens.append(word)
 # print(final_tokens)
+
 
 # Q7.
 
@@ -135,17 +133,134 @@ nltk.download('punkt_tab')
 
 
 # Q8.
-import re
-text = "I love #Python and #AI! Check https://example.com @student123 :blush:"
-hashtags = re.findall(r"#\w+", text)
-print(hashtags)
-mentions = re.findall(r"@\w+", text)
-print(mentions)
-urls = re.findall(r"https?://\S+", text)
-print(urls)
+ 
+# import re
+# text = input("Enter text:")
+# tokens = re.findall( r"https?://\S+|#\w+|@\w+|\d+(?:\.\d+)?|[A-Za-z]+|[^\w\s]" , text)
+# print(tokens)
+# Normal_words = []
+# Hashtags = []
+# Mentions = []
+# URLs = []
+# Numbers = []
+# Special_characters_emojis = []
+# for word in tokens:
 
-# Q10.
+#     if re.fullmatch(r"https?://\S+", word):
+#         URLs.append(word)
+
+#     elif re.fullmatch(r"#\w+", word):
+#         Hashtags.append(word)
+
+#     elif re.fullmatch(r"@\w+", word):
+#         Mentions.append(word)
+
+#     elif word.isalpha():
+#         Normal_words.append(word)
+
+#     elif word.replace(".", "", 1).isdigit():
+#         Numbers.append(word)
+
+#     else:
+#         Special_characters_emojis.append(word)
+# print(Normal_words)
+# print(Numbers)
+# print(URLs)
+# print(Hashtags)
+# print(Mentions)
+# print(Special_characters_emojis)
+
+
+#Q9. 
+# words = [
+#     "playing",
+#     "unhappiness",
+#     "internationalization",
+#     "misunderstanding",
+#     "machinelearning"
+# ]
+
+# subword_map = {
+#     "playing": ["play", "ing"],
+#     "unhappiness": ["un", "happy", "ness"],
+#     "internationalization": ["international", "ization"],
+#     "misunderstanding": ["mis", "understand", "ing"],
+#     "machinelearning": ["machine", "learning"]
+# }
+
+# for word in words:
+
+#     word_tokens = [word]
+#     character_tokens = list(word)
+
+#     subword_tokens = subword_map[word]
+
+#     print("Original Word:", word)
+#     print("Word Tokens:", word_tokens)
+#     print("Character Tokens:", character_tokens)
+#     print("Subword Tokens:", subword_tokens)
+
+
+# #Q10.
+# from nltk.tokenize import word_tokenize
+# from nltk.tokenize import sent_tokenize
+# from collections import Counter
+# import string
+# from nltk.corpus import stopwords
+# text = input("Enter text:")
+# sentences = sent_tokenize(text)
+# print(len(sentences))
+# tokens = word_tokenize(text)
+# print(len(tokens))
+# unique_tokens = set(tokens)
+# print(len(unique_tokens))
+# alphabetic_tokens = []
+# numeric_tokens = []
+# punctuation_tokens = []
+# for word in tokens:
+#     if word.isalpha():
+#         alphabetic_tokens.append(word)
+#     elif word.replace("." , "" , 1).isdigit():
+#         numeric_tokens.append(word)
+#     elif word in string.punctuation:
+#         punctuation_tokens.append(word)
+
+# print(len(alphabetic_tokens))
+# print(len(numeric_tokens))
+# print(len(punctuation_tokens))
+
+# most_common_token = Counter(tokens)
+# print(most_common_token.most_common(1))
+# most_common_token = Counter(tokens)
+# print(most_common_token.most_common(5))
+
+# total_length = 0
+# for token in tokens:
+#     total_length = total_length+len(tokens)
+# number_of_tokens = len(token)
+# average_tokens = total_length/number_of_tokens
+# print(average_tokens)
+
+# longest_token = max(tokens , key=len)
+# print(longest_token)
+# shortest_token  = min(tokens , key=len) 
+# print(shortest_token)
+
+# stop_words = stopwords.words('english')
+# stopwords_tokens = []
+# for token in tokens:
+#     if token.lower() in stop_words:
+#         stopwords_tokens.append(token)
+# print(len(stopwords_tokens))
+
+# final_tokens = []
+# for token in tokens:
+#     if token.isalpha() and token not in stop_words:
+#         final_tokens.append(token)
+        
+        
 
 
 
-    
+
+

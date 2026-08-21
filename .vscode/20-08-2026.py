@@ -185,3 +185,94 @@
 # print("AI Response:")
 # print(response[0]["generated_text"])
 
+# Q8.
+
+# from transformers import pipeline
+# sentiment_analyzer = pipeline("sentiment-analysis")
+# text_generator = pipeline("text-generation")
+
+# def analyze_sentiment():
+#     text = input("\nEnter text: ")
+#     result = sentiment_analyzer(text)
+#     label = result[0]["label"]
+#     confidence = result[0]["score"]
+#     print(label)
+#     print(confidence)
+
+# def generate_text():
+#     prompt = input("\nEnter prompt: ")
+#     result = text_generator(
+#         prompt,
+#         max_length=50,
+#         num_return_sequences=1
+#     )
+
+#     generated_text = result[0]["generated_text"]
+#     print("\nGenerated Text:")
+#     print(generated_text)
+
+# def analyze_multiple_reviews():
+#     number_of_reviews = int(input("\nEnter number of reviews: "))
+#     reviews = []
+#     for i in range(number_of_reviews):
+#         review = input(f"Enter review {i + 1}: ")
+#         reviews.append(review)
+#     results = []
+#     for review in reviews:
+#         result = sentiment_analyzer(review)
+#         label = result[0]["label"]
+#         confidence = result[0]["score"]
+#         review_result = {
+#             "review": review,
+#             "label": label,
+#             "confidence": confidence
+#         }
+#         results.append(review_result)
+#     positive_count = 0
+#     negative_count = 0
+#     total_confidence = 0
+#     for result in results:
+#         if result["label"] == "POSITIVE":
+#             positive_count += 1
+#         elif result["label"] == "NEGATIVE":
+#             negative_count += 1
+#         total_confidence = total_confidence + result["confidence"]
+#     average_confidence = total_confidence / len(results)
+#     print("Total Reviews:", len(results))
+#     print("Positive:", positive_count)
+#     print("Negative:", negative_count)
+
+#     print(
+#         "Average Confidence:",
+#         round(average_confidence * 100, 2),
+#         "%"
+#     )
+
+# while True:
+#     print("1. Analyze Sentiment")
+#     print("2. Generate Text")
+#     print("3. Analyze Multiple Reviews")
+#     print("4. Exit")
+#     choice = input("\nEnter your choice: ")
+
+#     if choice == "1":
+
+#         analyze_sentiment()
+
+#     elif choice == "2":
+
+#         generate_text()
+
+#     elif choice == "3":
+
+#         analyze_multiple_reviews()
+
+#     elif choice == "4":
+
+#         print("\nThank you for using AI Assistant!")
+#         break
+
+#     else:
+
+#         print("\nInvalid choice. Please try again.")
+
